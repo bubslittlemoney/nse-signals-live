@@ -1,0 +1,5055 @@
+{
+  "generated": "2026-05-30 15:44 UTC",
+  "count": 28,
+  "backtests": {
+    "MANKIND": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 2053.0,
+          "pat": 294.0,
+          "opm": 20.0,
+          "rev_yoy": -15,
+          "pat_yoy": -38,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 2579.0,
+          "pat": 494.0,
+          "opm": 25.0,
+          "rev_yoy": -10,
+          "pat_yoy": -9,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 2708.0,
+          "pat": 511.0,
+          "opm": 25.0,
+          "rev_yoy": -12,
+          "pat_yoy": -22,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 2607.0,
+          "pat": 460.0,
+          "opm": 23.0,
+          "rev_yoy": -19,
+          "pat_yoy": 19,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 2422.0,
+          "pat": 477.0,
+          "opm": 24.0,
+          "rev_yoy": -21,
+          "pat_yoy": 12,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 2868.0,
+          "pat": 543.0,
+          "opm": 23.0,
+          "rev_yoy": -20,
+          "pat_yoy": 22,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 3061.0,
+          "pat": 659.0,
+          "opm": 28.0,
+          "rev_yoy": -17,
+          "pat_yoy": 27,
+          "score": 55,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 3199.0,
+          "pat": 385.0,
+          "opm": 26.0,
+          "rev_yoy": -10,
+          "pat_yoy": -7,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 3079.0,
+          "pat": 425.0,
+          "opm": 22.0,
+          "rev_yoy": -11,
+          "pat_yoy": -24,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 3570.0,
+          "pat": 445.0,
+          "opm": 24.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 3697.0,
+          "pat": 520.0,
+          "opm": 25.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 3567.0,
+          "pat": 414.0,
+          "opm": 26.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 2089.3,
+          "p7": 2087.0,
+          "move_7": -0.11,
+          "p15": 2039.5,
+          "move_15": -2.38,
+          "p30": 2187.0,
+          "move_30": 4.68
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 3443.0,
+          "pat": 559.0,
+          "opm": 27.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 2319.5,
+          "p7": 2378.9,
+          "move_7": 2.56,
+          "p15": 2583.9,
+          "move_15": 11.4
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 50.0,
+          "n": 2
+        },
+        "h15": {
+          "win_rate": 50.0,
+          "n": 2
+        },
+        "h30": {
+          "win_rate": 100.0,
+          "n": 1
+        }
+      }
+    },
+    "MOTHERSON": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 22517.0,
+          "pat": 699.0,
+          "opm": 9.0,
+          "rev_yoy": -17,
+          "pat_yoy": -52,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 22462.0,
+          "pat": 648.0,
+          "opm": 9.0,
+          "rev_yoy": -22,
+          "pat_yoy": -41,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 23474.0,
+          "pat": 294.0,
+          "opm": 8.0,
+          "rev_yoy": -16,
+          "pat_yoy": -69,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 25644.0,
+          "pat": 633.0,
+          "opm": 9.0,
+          "rev_yoy": -7,
+          "pat_yoy": -36,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 27058.0,
+          "pat": 1444.0,
+          "opm": 11.0,
+          "rev_yoy": -8,
+          "pat_yoy": 30,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 28868.0,
+          "pat": 1097.0,
+          "opm": 10.0,
+          "rev_yoy": -4,
+          "pat_yoy": 81,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 27812.0,
+          "pat": 949.0,
+          "opm": 9.0,
+          "rev_yoy": -8,
+          "pat_yoy": 12,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 27666.0,
+          "pat": 984.0,
+          "opm": 10.0,
+          "rev_yoy": -12,
+          "pat_yoy": -8,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 29317.0,
+          "pat": 1115.0,
+          "opm": 9.0,
+          "rev_yoy": -15,
+          "pat_yoy": -29,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 30212.0,
+          "pat": 606.0,
+          "opm": 8.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 30173.0,
+          "pat": 846.0,
+          "opm": 9.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 31409.0,
+          "pat": 1072.0,
+          "opm": 10.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 34309.0,
+          "pat": 1562.0,
+          "opm": 11.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "FORTIS": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 1643.0,
+          "pat": 138.0,
+          "opm": 16.0,
+          "rev_yoy": -8,
+          "pat_yoy": -32,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 1657.0,
+          "pat": 124.0,
+          "opm": 16.0,
+          "rev_yoy": -11,
+          "pat_yoy": -29,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 1770.0,
+          "pat": 184.0,
+          "opm": 19.0,
+          "rev_yoy": -11,
+          "pat_yoy": -5,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 1680.0,
+          "pat": 134.0,
+          "opm": 17.0,
+          "rev_yoy": -13,
+          "pat_yoy": -47,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 1786.0,
+          "pat": 203.0,
+          "opm": 21.0,
+          "rev_yoy": -11,
+          "pat_yoy": 8,
+          "score": 46,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 1859.0,
+          "pat": 174.0,
+          "opm": 18.0,
+          "rev_yoy": -14,
+          "pat_yoy": -35,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 1988.0,
+          "pat": 193.0,
+          "opm": 22.0,
+          "rev_yoy": -15,
+          "pat_yoy": -41,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 1928.0,
+          "pat": 254.0,
+          "opm": 19.0,
+          "rev_yoy": -15,
+          "pat_yoy": 29,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 2007.0,
+          "pat": 188.0,
+          "opm": 22.0,
+          "rev_yoy": -15,
+          "pat_yoy": -31,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 2167.0,
+          "pat": 267.0,
+          "opm": 23.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 2331.0,
+          "pat": 329.0,
+          "opm": 24.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 2265.0,
+          "pat": 197.0,
+          "opm": 22.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 2365.0,
+          "pat": 271.0,
+          "opm": 23.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "DIVISLAB": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 1951.0,
+          "pat": 321.0,
+          "opm": 25.0,
+          "rev_yoy": -15,
+          "pat_yoy": -40,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 1778.0,
+          "pat": 356.0,
+          "opm": 28.0,
+          "rev_yoy": -16,
+          "pat_yoy": -17,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 1909.0,
+          "pat": 348.0,
+          "opm": 25.0,
+          "rev_yoy": -18,
+          "pat_yoy": -32,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 1855.0,
+          "pat": 358.0,
+          "opm": 26.0,
+          "rev_yoy": -20,
+          "pat_yoy": -39,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 2303.0,
+          "pat": 538.0,
+          "opm": 32.0,
+          "rev_yoy": -11,
+          "pat_yoy": -19,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 2118.0,
+          "pat": 430.0,
+          "opm": 29.0,
+          "rev_yoy": -12,
+          "pat_yoy": -21,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 2338.0,
+          "pat": 510.0,
+          "opm": 31.0,
+          "rev_yoy": -14,
+          "pat_yoy": -26,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 2319.0,
+          "pat": 589.0,
+          "opm": 32.0,
+          "rev_yoy": -11,
+          "pat_yoy": 1,
+          "score": 50,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 2585.0,
+          "pat": 662.0,
+          "opm": 34.0,
+          "rev_yoy": -9,
+          "pat_yoy": -12,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 2410.0,
+          "pat": 545.0,
+          "opm": 30.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 6489.5,
+          "p7": 5992.0,
+          "move_7": -7.67,
+          "p15": 6079.5,
+          "move_15": -6.32,
+          "p30": 6164.0,
+          "move_30": -5.02
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 2715.0,
+          "pat": 689.0,
+          "opm": 33.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 6804.5,
+          "p7": 6539.5,
+          "move_7": -3.89,
+          "p15": 6454.0,
+          "move_15": -5.15,
+          "p30": 6469.0,
+          "move_30": -4.93
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 2604.0,
+          "pat": 583.0,
+          "opm": 34.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 6054.5,
+          "p7": 6386.5,
+          "move_7": 5.48,
+          "p15": 6297.5,
+          "move_15": 4.01,
+          "p30": 6329.0,
+          "move_30": 4.53
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 2831.0,
+          "pat": 751.0,
+          "opm": 33.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 6651.0,
+          "p7": 6644.0,
+          "move_7": -0.11,
+          "p15": 6893.0,
+          "move_15": 3.64
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 25.0,
+          "n": 4
+        },
+        "h15": {
+          "win_rate": 50.0,
+          "n": 4
+        },
+        "h30": {
+          "win_rate": 33.3,
+          "n": 3
+        }
+      }
+    },
+    "NHPC": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 2029.0,
+          "pat": 745.0,
+          "opm": 44.0,
+          "rev_yoy": 8,
+          "pat_yoy": 23,
+          "score": 85,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 45.7,
+          "p7": 44.55,
+          "move_7": -2.52,
+          "p15": 43.55,
+          "move_15": -4.7,
+          "p30": 43.9,
+          "move_30": -3.94
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 2757.0,
+          "pat": 1095.0,
+          "opm": 55.0,
+          "rev_yoy": 2,
+          "pat_yoy": -1,
+          "score": 78,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 49.45,
+          "p7": 50.15,
+          "move_7": 1.42,
+          "p15": 50.1,
+          "move_15": 1.31,
+          "p30": 51.3,
+          "move_30": 3.74
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 2931.0,
+          "pat": 1693.0,
+          "opm": 60.0,
+          "rev_yoy": -4,
+          "pat_yoy": 60,
+          "score": 55,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 2056.0,
+          "pat": 623.0,
+          "opm": 37.0,
+          "rev_yoy": -10,
+          "pat_yoy": 89,
+          "score": 55,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 1887.0,
+          "pat": 605.0,
+          "opm": 61.0,
+          "rev_yoy": -20,
+          "pat_yoy": -34,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 2694.0,
+          "pat": 1102.0,
+          "opm": 60.0,
+          "rev_yoy": -16,
+          "pat_yoy": -3,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 3052.0,
+          "pat": 1060.0,
+          "opm": 59.0,
+          "rev_yoy": -9,
+          "pat_yoy": -13,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 2287.0,
+          "pat": 330.0,
+          "opm": 44.0,
+          "rev_yoy": 3,
+          "pat_yoy": 3,
+          "score": 80,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 78.91,
+          "p7": 74.39,
+          "move_7": -5.73,
+          "p15": 74.62,
+          "move_15": -5.44,
+          "p30": 77.51,
+          "move_30": -1.77
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 2347.0,
+          "pat": 920.0,
+          "opm": 51.0,
+          "rev_yoy": -17,
+          "pat_yoy": -41,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 3214.0,
+          "pat": 1131.0,
+          "opm": 56.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 83.49,
+          "p7": 83.45,
+          "move_7": -0.05,
+          "p15": 82.09,
+          "move_15": -1.68,
+          "p30": 79.38,
+          "move_30": -4.92
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 3365.0,
+          "pat": 1219.0,
+          "opm": 60.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 84.16,
+          "p7": 81.89,
+          "move_7": -2.7,
+          "p15": 80.05,
+          "move_15": -4.88,
+          "p30": 76.89,
+          "move_30": -8.64
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 2221.0,
+          "pat": 321.0,
+          "opm": 10.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 2816.0,
+          "pat": 1549.0,
+          "opm": 23.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 20.0,
+          "n": 5
+        },
+        "h15": {
+          "win_rate": 20.0,
+          "n": 5
+        },
+        "h30": {
+          "win_rate": 20.0,
+          "n": 5
+        }
+      }
+    },
+    "SUZLON": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 1694.0,
+          "pat": 320.0,
+          "opm": 14.0,
+          "rev_yoy": -23,
+          "pat_yoy": 26,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 1351.0,
+          "pat": 101.0,
+          "opm": 15.0,
+          "rev_yoy": -33,
+          "pat_yoy": -67,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 1421.0,
+          "pat": 102.0,
+          "opm": 16.0,
+          "rev_yoy": -32,
+          "pat_yoy": -49,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 1560.0,
+          "pat": 203.0,
+          "opm": 16.0,
+          "rev_yoy": -48,
+          "pat_yoy": -48,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 2196.0,
+          "pat": 254.0,
+          "opm": 16.0,
+          "rev_yoy": -42,
+          "pat_yoy": -78,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 2022.0,
+          "pat": 302.0,
+          "opm": 18.0,
+          "rev_yoy": -35,
+          "pat_yoy": -7,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 2103.0,
+          "pat": 201.0,
+          "opm": 14.0,
+          "rev_yoy": -46,
+          "pat_yoy": -84,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 2975.0,
+          "pat": 388.0,
+          "opm": 17.0,
+          "rev_yoy": -30,
+          "pat_yoy": -13,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 3790.0,
+          "pat": 1181.0,
+          "opm": 18.0,
+          "rev_yoy": -31,
+          "pat_yoy": 6,
+          "score": 46,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 3132.0,
+          "pat": 324.0,
+          "opm": 19.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 3871.0,
+          "pat": 1279.0,
+          "opm": 19.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 4236.0,
+          "pat": 445.0,
+          "opm": 17.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 5493.0,
+          "pat": 1114.0,
+          "opm": 18.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "ZYDUSLIFE": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 5011.0,
+          "pat": 358.0,
+          "opm": 25.0,
+          "rev_yoy": -9,
+          "pat_yoy": -71,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 5140.0,
+          "pat": 1134.0,
+          "opm": 29.0,
+          "rev_yoy": -17,
+          "pat_yoy": -23,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 4369.0,
+          "pat": 803.0,
+          "opm": 26.0,
+          "rev_yoy": -17,
+          "pat_yoy": -13,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 4505.0,
+          "pat": 790.0,
+          "opm": 24.0,
+          "rev_yoy": -14,
+          "pat_yoy": -23,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 5534.0,
+          "pat": 1246.0,
+          "opm": 29.0,
+          "rev_yoy": -15,
+          "pat_yoy": 0,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 6208.0,
+          "pat": 1482.0,
+          "opm": 34.0,
+          "rev_yoy": -6,
+          "pat_yoy": -3,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 5237.0,
+          "pat": 920.0,
+          "opm": 28.0,
+          "rev_yoy": -14,
+          "pat_yoy": -26,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 5269.0,
+          "pat": 1026.0,
+          "opm": 26.0,
+          "rev_yoy": -23,
+          "pat_yoy": 0,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 6528.0,
+          "pat": 1244.0,
+          "opm": 33.0,
+          "rev_yoy": -14,
+          "pat_yoy": -7,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 6574.0,
+          "pat": 1521.0,
+          "opm": 32.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 958.85,
+          "p7": 955.55,
+          "move_7": -0.34,
+          "p15": 989.45,
+          "move_15": 3.19,
+          "p30": 1008.2,
+          "move_30": 5.15
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 6123.0,
+          "pat": 1239.0,
+          "opm": 33.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 971.7,
+          "p7": 938.9,
+          "move_7": -3.38,
+          "p15": 930.2,
+          "move_15": -4.27,
+          "p30": 935.75,
+          "move_30": -3.7
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 6864.0,
+          "pat": 1023.0,
+          "opm": 26.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 905.25,
+          "p7": 898.3,
+          "move_7": -0.77,
+          "p15": 902.4,
+          "move_15": -0.31,
+          "p30": 913.05,
+          "move_30": 0.86
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 7587.0,
+          "pat": 1341.0,
+          "opm": 34.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 912.25,
+          "p7": 930.65,
+          "move_7": 2.02,
+          "p15": 1040.85,
+          "move_15": 14.1
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 25.0,
+          "n": 4
+        },
+        "h15": {
+          "win_rate": 50.0,
+          "n": 4
+        },
+        "h30": {
+          "win_rate": 66.7,
+          "n": 3
+        }
+      }
+    },
+    "ASIANPAINT": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 8787.0,
+          "pat": 1258.0,
+          "opm": 21.0,
+          "rev_yoy": 1,
+          "pat_yoy": -1,
+          "score": 74,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 3012.95,
+          "p7": 3131.1,
+          "move_7": 3.92,
+          "p15": 3084.9,
+          "move_15": 2.39,
+          "p30": 3199.75,
+          "move_30": 6.2
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 9182.0,
+          "pat": 1575.0,
+          "opm": 23.0,
+          "rev_yoy": 2,
+          "pat_yoy": 33,
+          "score": 81,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 3339.65,
+          "p7": 3185.35,
+          "move_7": -4.62,
+          "p15": 3182.3,
+          "move_15": -4.71,
+          "p30": 3235.55,
+          "move_30": -3.12
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 8479.0,
+          "pat": 1232.0,
+          "opm": 20.0,
+          "rev_yoy": 6,
+          "pat_yoy": 78,
+          "score": 81,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 3029.3,
+          "p7": 3085.6,
+          "move_7": 1.86,
+          "p15": 3140.35,
+          "move_15": 3.67,
+          "p30": 3194.55,
+          "move_30": 5.46
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 9103.0,
+          "pat": 1475.0,
+          "opm": 23.0,
+          "rev_yoy": 6,
+          "pat_yoy": 31,
+          "score": 81,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 2917.35,
+          "p7": 2953.8,
+          "move_7": 1.25,
+          "p15": 2998.1,
+          "move_15": 2.77,
+          "p30": 2820.4,
+          "move_30": -3.32
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 8731.0,
+          "pat": 1275.0,
+          "opm": 19.0,
+          "rev_yoy": 4,
+          "pat_yoy": 82,
+          "score": 81,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 2932.15,
+          "p7": 2879.25,
+          "move_7": -1.8,
+          "p15": 2851.8,
+          "move_15": -2.74,
+          "p30": 2857.65,
+          "move_30": -2.54
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 8970.0,
+          "pat": 1187.0,
+          "opm": 19.0,
+          "rev_yoy": 0,
+          "pat_yoy": 6,
+          "score": 61,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 3093.4,
+          "p7": 3053.2,
+          "move_7": -1.3,
+          "p15": 3076.3,
+          "move_15": -0.55,
+          "p30": 3154.85,
+          "move_30": 1.99
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 8028.0,
+          "pat": 694.0,
+          "opm": 15.0,
+          "rev_yoy": -6,
+          "pat_yoy": -32,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 8549.0,
+          "pat": 1128.0,
+          "opm": 19.0,
+          "rev_yoy": -4,
+          "pat_yoy": 5,
+          "score": 46,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 8359.0,
+          "pat": 701.0,
+          "opm": 17.0,
+          "rev_yoy": -10,
+          "pat_yoy": -41,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 8939.0,
+          "pat": 1117.0,
+          "opm": 18.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 8531.0,
+          "pat": 1018.0,
+          "opm": 18.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 8867.0,
+          "pat": 1074.0,
+          "opm": 20.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 9247.0,
+          "pat": 1185.0,
+          "opm": 19.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 50.0,
+          "n": 6
+        },
+        "h15": {
+          "win_rate": 50.0,
+          "n": 6
+        },
+        "h30": {
+          "win_rate": 50.0,
+          "n": 6
+        }
+      }
+    },
+    "ADANIGREEN": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 2598.0,
+          "pat": 507.0,
+          "opm": 87.0,
+          "rev_yoy": 3,
+          "pat_yoy": 64,
+          "score": 85,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 940.55,
+          "p7": 895.6,
+          "move_7": -4.78,
+          "p15": 941.75,
+          "move_15": 0.13,
+          "p30": 987.85,
+          "move_30": 5.03
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 2162.0,
+          "pat": 323.0,
+          "opm": 96.0,
+          "rev_yoy": -23,
+          "pat_yoy": -49,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 2220.0,
+          "pat": 371.0,
+          "opm": 77.0,
+          "rev_yoy": -26,
+          "pat_yoy": -28,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 2311.0,
+          "pat": 256.0,
+          "opm": 72.0,
+          "rev_yoy": -1,
+          "pat_yoy": -46,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 2527.0,
+          "pat": 310.0,
+          "opm": 73.0,
+          "rev_yoy": -18,
+          "pat_yoy": -19,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 2794.0,
+          "pat": 629.0,
+          "opm": 85.0,
+          "rev_yoy": -26,
+          "pat_yoy": -24,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 3005.0,
+          "pat": 515.0,
+          "opm": 74.0,
+          "rev_yoy": 0,
+          "pat_yoy": -20,
+          "score": 63,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 1611.95,
+          "p7": 1557.4,
+          "move_7": -3.38,
+          "p15": 1412.7,
+          "move_15": -12.36,
+          "p30": 1260.85,
+          "move_30": -21.78
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 2340.0,
+          "pat": 474.0,
+          "opm": 80.0,
+          "rev_yoy": -11,
+          "pat_yoy": 9380,
+          "score": 55,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 3073.0,
+          "pat": 383.0,
+          "opm": 78.0,
+          "rev_yoy": -12,
+          "pat_yoy": -25,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 3800.0,
+          "pat": 824.0,
+          "opm": 80.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 989.8,
+          "p7": 929.1,
+          "move_7": -6.13,
+          "p15": 973.4,
+          "move_15": -1.66,
+          "p30": 935.7,
+          "move_30": -5.47
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 3008.0,
+          "pat": 644.0,
+          "opm": 87.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 1086.4,
+          "p7": 1044.2,
+          "move_7": -3.88,
+          "p15": 1069.9,
+          "move_15": -1.52,
+          "p30": 1013.4,
+          "move_30": -6.72
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 2618.0,
+          "pat": 5.0,
+          "opm": 86.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 954.45,
+          "p7": 994.75,
+          "move_7": 4.22,
+          "p15": 976.5,
+          "move_15": 2.31,
+          "p30": 858.4,
+          "move_30": -10.06
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 3502.0,
+          "pat": 514.0,
+          "opm": 82.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 1331.4,
+          "p7": 1308.0,
+          "move_7": -1.76,
+          "p15": 1363.2,
+          "move_15": 2.39
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 16.7,
+          "n": 6
+        },
+        "h15": {
+          "win_rate": 50.0,
+          "n": 6
+        },
+        "h30": {
+          "win_rate": 20.0,
+          "n": 5
+        }
+      }
+    },
+    "CUMMINSIND": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 1934.0,
+          "pat": 349.0,
+          "opm": 17.0,
+          "rev_yoy": -17,
+          "pat_yoy": -35,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 2218.0,
+          "pat": 354.0,
+          "opm": 15.0,
+          "rev_yoy": -4,
+          "pat_yoy": -24,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 1922.0,
+          "pat": 329.0,
+          "opm": 18.0,
+          "rev_yoy": -23,
+          "pat_yoy": -27,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 2541.0,
+          "pat": 499.0,
+          "opm": 21.0,
+          "rev_yoy": -18,
+          "pat_yoy": -11,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 2319.0,
+          "pat": 539.0,
+          "opm": 23.0,
+          "rev_yoy": -6,
+          "pat_yoy": 2,
+          "score": 46,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 2316.0,
+          "pat": 463.0,
+          "opm": 20.0,
+          "rev_yoy": -20,
+          "pat_yoy": -23,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 2509.0,
+          "pat": 449.0,
+          "opm": 19.0,
+          "rev_yoy": -21,
+          "pat_yoy": -28,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 3096.0,
+          "pat": 558.0,
+          "opm": 19.0,
+          "rev_yoy": 1,
+          "pat_yoy": 15,
+          "score": 81,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 2853.5,
+          "p7": 2836.3,
+          "move_7": -0.6,
+          "p15": 2690.3,
+          "move_15": -5.72,
+          "p30": 2973.1,
+          "move_30": 4.19
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 2470.0,
+          "pat": 530.0,
+          "opm": 21.0,
+          "rev_yoy": -18,
+          "pat_yoy": -18,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 2907.0,
+          "pat": 604.0,
+          "opm": 21.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 3170.0,
+          "pat": 622.0,
+          "opm": 22.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 3055.0,
+          "pat": 486.0,
+          "opm": 21.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 3011.0,
+          "pat": 649.0,
+          "opm": 21.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 0.0,
+          "n": 1
+        },
+        "h15": {
+          "win_rate": 0.0,
+          "n": 1
+        },
+        "h30": {
+          "win_rate": 100.0,
+          "n": 1
+        }
+      }
+    },
+    "JAGRAN": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 459.38,
+          "pat": 23.27,
+          "opm": 1.89,
+          "rev_yoy": -10,
+          "pat_yoy": 287,
+          "score": 42,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 454.58,
+          "pat": 43.9,
+          "opm": 15.27,
+          "rev_yoy": 2,
+          "pat_yoy": 7,
+          "score": 76,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 100.2,
+          "p7": 101.95,
+          "move_7": 1.75,
+          "p15": 103.15,
+          "move_15": 2.94,
+          "p30": 107.2,
+          "move_30": 6.99
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 458.73,
+          "pat": 41.52,
+          "opm": 15.68,
+          "rev_yoy": 3,
+          "pat_yoy": 0,
+          "score": 66,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 99.25,
+          "p7": 97.1,
+          "move_7": -2.17,
+          "p15": 97.45,
+          "move_15": -1.81,
+          "p30": 98.1,
+          "move_30": -1.16
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 510.96,
+          "pat": 73.48,
+          "opm": 20.5,
+          "rev_yoy": -1,
+          "pat_yoy": 17,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 509.64,
+          "pat": 6.02,
+          "opm": 4.95,
+          "rev_yoy": 6,
+          "pat_yoy": -112,
+          "score": 65,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 99.7,
+          "p7": 95.5,
+          "move_7": -4.21,
+          "p15": 93.65,
+          "move_15": -6.07,
+          "p30": 85.55,
+          "move_30": -14.19
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 444.12,
+          "pat": 41.03,
+          "opm": 14.75,
+          "rev_yoy": -3,
+          "pat_yoy": -39,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 446.51,
+          "pat": 41.65,
+          "opm": 16.71,
+          "rev_yoy": -4,
+          "pat_yoy": -27,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 516.5,
+          "pat": 62.72,
+          "opm": 18.09,
+          "rev_yoy": 8,
+          "pat_yoy": 14,
+          "score": 81,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 77.06,
+          "p7": 71.81,
+          "move_7": -6.81,
+          "p15": 71.04,
+          "move_15": -7.81,
+          "p30": 70.96,
+          "move_30": -7.92
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 481.0,
+          "pat": -51.46,
+          "opm": -13.77,
+          "rev_yoy": 2,
+          "pat_yoy": -949,
+          "score": 65,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 72.42,
+          "p7": 71.02,
+          "move_7": -1.93,
+          "p15": 74.65,
+          "move_15": 3.08,
+          "p30": 73.32,
+          "move_30": 1.24
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 460.05,
+          "pat": 66.77,
+          "opm": 13.87,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 467.36,
+          "pat": 56.94,
+          "opm": 14.25,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 476.71,
+          "pat": 55.17,
+          "opm": 14.98,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 472.1,
+          "pat": 6.06,
+          "opm": 10.09,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 20.0,
+          "n": 5
+        },
+        "h15": {
+          "win_rate": 40.0,
+          "n": 5
+        },
+        "h30": {
+          "win_rate": 40.0,
+          "n": 5
+        }
+      }
+    },
+    "TIINDIA": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 3778.0,
+          "pat": 477.0,
+          "opm": 13.0,
+          "rev_yoy": -16,
+          "pat_yoy": 74,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 3898.0,
+          "pat": 284.0,
+          "opm": 12.0,
+          "rev_yoy": -15,
+          "pat_yoy": -10,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 4306.0,
+          "pat": 346.0,
+          "opm": 13.0,
+          "rev_yoy": -13,
+          "pat_yoy": 16,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 4197.0,
+          "pat": 828.0,
+          "opm": 11.0,
+          "rev_yoy": -13,
+          "pat_yoy": 196,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 4490.0,
+          "pat": 274.0,
+          "opm": 10.0,
+          "rev_yoy": -13,
+          "pat_yoy": 73,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 4578.0,
+          "pat": 317.0,
+          "opm": 12.0,
+          "rev_yoy": -14,
+          "pat_yoy": 5,
+          "score": 42,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 4925.0,
+          "pat": 299.0,
+          "opm": 10.0,
+          "rev_yoy": -11,
+          "pat_yoy": -1,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 4812.0,
+          "pat": 280.0,
+          "opm": 10.0,
+          "rev_yoy": -17,
+          "pat_yoy": 0,
+          "score": 32,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 5150.0,
+          "pat": 158.0,
+          "opm": 7.0,
+          "rev_yoy": -17,
+          "pat_yoy": -32,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 5309.0,
+          "pat": 303.0,
+          "opm": 10.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 5523.0,
+          "pat": 302.0,
+          "opm": 10.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 5801.0,
+          "pat": 279.0,
+          "opm": 10.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 6215.0,
+          "pat": 234.0,
+          "opm": 9.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "SUPRAJIT": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 699.0,
+          "pat": 41.0,
+          "opm": 12.0,
+          "rev_yoy": -11,
+          "pat_yoy": -31,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 680.0,
+          "pat": 33.0,
+          "opm": 11.0,
+          "rev_yoy": -7,
+          "pat_yoy": -13,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 709.0,
+          "pat": 35.0,
+          "opm": 10.0,
+          "rev_yoy": -15,
+          "pat_yoy": null,
+          "score": 37,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 724.0,
+          "pat": 40.0,
+          "opm": 12.0,
+          "rev_yoy": -13,
+          "pat_yoy": 21,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 783.0,
+          "pat": 59.0,
+          "opm": 12.0,
+          "rev_yoy": -11,
+          "pat_yoy": 119,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 735.0,
+          "pat": 38.0,
+          "opm": 12.0,
+          "rev_yoy": -15,
+          "pat_yoy": -21,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 834.0,
+          "pat": 0.0,
+          "opm": 8.0,
+          "rev_yoy": -11,
+          "pat_yoy": null,
+          "score": 32,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 832.0,
+          "pat": 33.0,
+          "opm": 12.0,
+          "rev_yoy": -15,
+          "pat_yoy": 154,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 877.0,
+          "pat": 27.0,
+          "opm": 10.0,
+          "rev_yoy": -16,
+          "pat_yoy": -62,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 863.0,
+          "pat": 48.0,
+          "opm": 9.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 941.0,
+          "pat": 51.0,
+          "opm": 11.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 979.0,
+          "pat": 13.0,
+          "opm": 10.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 1042.0,
+          "pat": 71.0,
+          "opm": 12.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "HINDALCO": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 55857.0,
+          "pat": 2411.0,
+          "opm": 10.0,
+          "rev_yoy": 0,
+          "pat_yoy": -24,
+          "score": 55,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 52991.0,
+          "pat": 2454.0,
+          "opm": 11.0,
+          "rev_yoy": -7,
+          "pat_yoy": -20,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 54169.0,
+          "pat": 2196.0,
+          "opm": 10.0,
+          "rev_yoy": -7,
+          "pat_yoy": -44,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 52808.0,
+          "pat": 2331.0,
+          "opm": 11.0,
+          "rev_yoy": -10,
+          "pat_yoy": -38,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 55994.0,
+          "pat": 3174.0,
+          "opm": 12.0,
+          "rev_yoy": -14,
+          "pat_yoy": -40,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 57013.0,
+          "pat": 3074.0,
+          "opm": 13.0,
+          "rev_yoy": -11,
+          "pat_yoy": -23,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 58203.0,
+          "pat": 3909.0,
+          "opm": 14.0,
+          "rev_yoy": -12,
+          "pat_yoy": -18,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 58390.0,
+          "pat": 3735.0,
+          "opm": 13.0,
+          "rev_yoy": -12,
+          "pat_yoy": 82,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 64890.0,
+          "pat": 5284.0,
+          "opm": 14.0,
+          "rev_yoy": -17,
+          "pat_yoy": 103,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 64232.0,
+          "pat": 4004.0,
+          "opm": 12.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 66058.0,
+          "pat": 4741.0,
+          "opm": 14.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 66521.0,
+          "pat": 2049.0,
+          "opm": 12.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 78133.0,
+          "pat": 2597.0,
+          "opm": 13.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "TIMKEN": {
+      "quarters": [
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 683.0,
+          "pat": 78.0,
+          "opm": 16.0,
+          "rev_yoy": -37,
+          "pat_yoy": -51,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 951.0,
+          "pat": 190.0,
+          "opm": 23.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 786.0,
+          "pat": 94.0,
+          "opm": 18.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 780.0,
+          "pat": 55.0,
+          "opm": 13.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 1090.0,
+          "pat": 158.0,
+          "opm": 22.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "RATEGAIN": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 183.0,
+          "pat": 34.0,
+          "opm": 18.0,
+          "rev_yoy": -29,
+          "pat_yoy": -32,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 214.0,
+          "pat": 25.0,
+          "opm": 18.0,
+          "rev_yoy": -18,
+          "pat_yoy": -44,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 235.0,
+          "pat": 30.0,
+          "opm": 20.0,
+          "rev_yoy": -15,
+          "pat_yoy": -42,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 252.0,
+          "pat": 40.0,
+          "opm": 20.0,
+          "rev_yoy": -10,
+          "pat_yoy": -30,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 256.0,
+          "pat": 50.0,
+          "opm": 21.0,
+          "rev_yoy": -2,
+          "pat_yoy": -9,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 260.0,
+          "pat": 45.0,
+          "opm": 19.0,
+          "rev_yoy": -5,
+          "pat_yoy": -4,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 277.0,
+          "pat": 52.0,
+          "opm": 22.0,
+          "rev_yoy": -6,
+          "pat_yoy": 2,
+          "score": 46,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 279.0,
+          "pat": 57.0,
+          "opm": 22.0,
+          "rev_yoy": -48,
+          "pat_yoy": 119,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 261.0,
+          "pat": 55.0,
+          "opm": 23.0,
+          "rev_yoy": -64,
+          "pat_yoy": -21,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 273.0,
+          "pat": 47.0,
+          "opm": 18.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 295.0,
+          "pat": 51.0,
+          "opm": 18.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 540.0,
+          "pat": 26.0,
+          "opm": 16.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 716.0,
+          "pat": 70.0,
+          "opm": 21.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "SRF": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 3778.0,
+          "pat": 562.0,
+          "opm": 25.0,
+          "rev_yoy": 6,
+          "pat_yoy": 33,
+          "score": 81,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 2529.7,
+          "p7": 2552.75,
+          "move_7": 0.91,
+          "p15": 2458.6,
+          "move_15": -2.81,
+          "p30": 2532.2,
+          "move_30": 0.1
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 3338.0,
+          "pat": 359.0,
+          "opm": 21.0,
+          "rev_yoy": -4,
+          "pat_yoy": 42,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 3177.0,
+          "pat": 301.0,
+          "opm": 20.0,
+          "rev_yoy": -7,
+          "pat_yoy": 50,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 3053.0,
+          "pat": 253.0,
+          "opm": 19.0,
+          "rev_yoy": -13,
+          "pat_yoy": -7,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 3570.0,
+          "pat": 422.0,
+          "opm": 19.0,
+          "rev_yoy": -17,
+          "pat_yoy": -20,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 3464.0,
+          "pat": 252.0,
+          "opm": 17.0,
+          "rev_yoy": -9,
+          "pat_yoy": -42,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 3424.0,
+          "pat": 201.0,
+          "opm": 16.0,
+          "rev_yoy": -6,
+          "pat_yoy": -48,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 3491.0,
+          "pat": 271.0,
+          "opm": 18.0,
+          "rev_yoy": -6,
+          "pat_yoy": -37,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 4313.0,
+          "pat": 526.0,
+          "opm": 22.0,
+          "rev_yoy": -7,
+          "pat_yoy": -10,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 3819.0,
+          "pat": 432.0,
+          "opm": 22.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 3640.0,
+          "pat": 388.0,
+          "opm": 21.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 3713.0,
+          "pat": 433.0,
+          "opm": 21.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 4615.0,
+          "pat": 582.0,
+          "opm": 22.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 100.0,
+          "n": 1
+        },
+        "h15": {
+          "win_rate": 0.0,
+          "n": 1
+        },
+        "h30": {
+          "win_rate": 100.0,
+          "n": 1
+        }
+      }
+    },
+    "NBCC": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 2813.0,
+          "pat": 114.0,
+          "opm": 4.0,
+          "rev_yoy": -30,
+          "pat_yoy": -19,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 1918.0,
+          "pat": 77.0,
+          "opm": 3.0,
+          "rev_yoy": -10,
+          "pat_yoy": -28,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 2059.0,
+          "pat": 82.0,
+          "opm": 5.0,
+          "rev_yoy": -16,
+          "pat_yoy": -34,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 2424.0,
+          "pat": 114.0,
+          "opm": 5.0,
+          "rev_yoy": -14,
+          "pat_yoy": -20,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 3996.0,
+          "pat": 141.0,
+          "opm": 6.0,
+          "rev_yoy": -14,
+          "pat_yoy": -23,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 2143.0,
+          "pat": 107.0,
+          "opm": 4.0,
+          "rev_yoy": -10,
+          "pat_yoy": -21,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 2446.0,
+          "pat": 125.0,
+          "opm": 4.0,
+          "rev_yoy": -16,
+          "pat_yoy": -20,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 2809.0,
+          "pat": 142.0,
+          "opm": 5.0,
+          "rev_yoy": -7,
+          "pat_yoy": -28,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 4644.0,
+          "pat": 183.0,
+          "opm": 6.0,
+          "rev_yoy": 2,
+          "pat_yoy": -28,
+          "score": 65,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 96.29,
+          "p7": 99.81,
+          "move_7": 3.66,
+          "p15": 110.89,
+          "move_15": 15.16,
+          "p30": 124.88,
+          "move_30": 29.69
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 2391.0,
+          "pat": 135.0,
+          "opm": 5.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 2914.0,
+          "pat": 157.0,
+          "opm": 4.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 3022.0,
+          "pat": 197.0,
+          "opm": 4.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 4560.0,
+          "pat": 254.0,
+          "opm": 6.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 100.0,
+          "n": 1
+        },
+        "h15": {
+          "win_rate": 100.0,
+          "n": 1
+        },
+        "h30": {
+          "win_rate": 100.0,
+          "n": 1
+        }
+      }
+    },
+    "NH": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 1222.0,
+          "pat": 173.0,
+          "opm": 23.0,
+          "rev_yoy": -2,
+          "pat_yoy": -9,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 1233.0,
+          "pat": 184.0,
+          "opm": 22.0,
+          "rev_yoy": -6,
+          "pat_yoy": -9,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 1305.0,
+          "pat": 227.0,
+          "opm": 24.0,
+          "rev_yoy": -5,
+          "pat_yoy": 14,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 1204.0,
+          "pat": 188.0,
+          "opm": 23.0,
+          "rev_yoy": -10,
+          "pat_yoy": -3,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 1246.0,
+          "pat": 191.0,
+          "opm": 23.0,
+          "rev_yoy": -16,
+          "pat_yoy": -3,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 1306.0,
+          "pat": 202.0,
+          "opm": 23.0,
+          "rev_yoy": -13,
+          "pat_yoy": 3,
+          "score": 46,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 1367.0,
+          "pat": 199.0,
+          "opm": 23.0,
+          "rev_yoy": -17,
+          "pat_yoy": -23,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 1335.0,
+          "pat": 193.0,
+          "opm": 23.0,
+          "rev_yoy": -38,
+          "pat_yoy": 52,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 1475.0,
+          "pat": 197.0,
+          "opm": 24.0,
+          "rev_yoy": -43,
+          "pat_yoy": -12,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 1507.0,
+          "pat": 197.0,
+          "opm": 22.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 1644.0,
+          "pat": 258.0,
+          "opm": 24.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 2151.0,
+          "pat": 127.0,
+          "opm": 17.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 2594.0,
+          "pat": 224.0,
+          "opm": 20.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "WABAG": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 927.0,
+          "pat": -112.0,
+          "opm": 12.0,
+          "rev_yoy": -1,
+          "pat_yoy": -244,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 553.0,
+          "pat": 50.0,
+          "opm": 10.0,
+          "rev_yoy": -12,
+          "pat_yoy": -9,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 665.0,
+          "pat": 60.0,
+          "opm": 13.0,
+          "rev_yoy": -5,
+          "pat_yoy": -14,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 704.0,
+          "pat": 63.0,
+          "opm": 14.0,
+          "rev_yoy": -13,
+          "pat_yoy": -10,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 934.0,
+          "pat": 78.0,
+          "opm": 12.0,
+          "rev_yoy": -19,
+          "pat_yoy": -22,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 626.0,
+          "pat": 55.0,
+          "opm": 13.0,
+          "rev_yoy": -15,
+          "pat_yoy": -17,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 700.0,
+          "pat": 70.0,
+          "opm": 13.0,
+          "rev_yoy": -16,
+          "pat_yoy": -18,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 811.0,
+          "pat": 70.0,
+          "opm": 12.0,
+          "rev_yoy": -16,
+          "pat_yoy": -23,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 1156.0,
+          "pat": 100.0,
+          "opm": 12.0,
+          "rev_yoy": -18,
+          "pat_yoy": -22,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 734.0,
+          "pat": 66.0,
+          "opm": 13.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 834.0,
+          "pat": 85.0,
+          "opm": 11.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 961.0,
+          "pat": 91.0,
+          "opm": 13.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 1414.0,
+          "pat": 128.0,
+          "opm": 11.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "BALKRISHNA": {
+      "quarters": [
+        {
+          "q": "Mar 2015",
+          "signal_date": "2015-05-05",
+          "rev": 28.3,
+          "pat": -2.69,
+          "opm": -2.16,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2015",
+          "signal_date": "2016-02-04",
+          "rev": 48.39,
+          "pat": 26.09,
+          "opm": -8.66,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2016",
+          "signal_date": "2016-05-05",
+          "rev": 41.63,
+          "pat": -3.82,
+          "opm": -10.43,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "ATGL": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 1115.0,
+          "pat": 98.0,
+          "opm": 17.0,
+          "rev_yoy": -4,
+          "pat_yoy": -42,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 1056.0,
+          "pat": 150.0,
+          "opm": 23.0,
+          "rev_yoy": -8,
+          "pat_yoy": -13,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 1096.0,
+          "pat": 173.0,
+          "opm": 26.0,
+          "rev_yoy": -10,
+          "pat_yoy": -7,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 1156.0,
+          "pat": 177.0,
+          "opm": 25.0,
+          "rev_yoy": -11,
+          "pat_yoy": 25,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 1167.0,
+          "pat": 168.0,
+          "opm": 25.0,
+          "rev_yoy": -13,
+          "pat_yoy": 8,
+          "score": 46,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 1145.0,
+          "pat": 172.0,
+          "opm": 26.0,
+          "rev_yoy": -17,
+          "pat_yoy": 4,
+          "score": 50,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 1219.0,
+          "pat": 186.0,
+          "opm": 25.0,
+          "rev_yoy": -16,
+          "pat_yoy": 14,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 1294.0,
+          "pat": 142.0,
+          "opm": 20.0,
+          "rev_yoy": -14,
+          "pat_yoy": -11,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 1341.0,
+          "pat": 155.0,
+          "opm": 20.0,
+          "rev_yoy": -14,
+          "pat_yoy": -8,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 1379.0,
+          "pat": 165.0,
+          "opm": 21.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 1451.0,
+          "pat": 163.0,
+          "opm": 20.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 1507.0,
+          "pat": 159.0,
+          "opm": 20.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 1557.0,
+          "pat": 168.0,
+          "opm": 19.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "MINDACORP": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 1075.0,
+          "pat": 122.0,
+          "opm": 11.0,
+          "rev_yoy": -12,
+          "pat_yoy": 72,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 1075.0,
+          "pat": 45.0,
+          "opm": 11.0,
+          "rev_yoy": -10,
+          "pat_yoy": -30,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 1196.0,
+          "pat": 59.0,
+          "opm": 11.0,
+          "rev_yoy": -7,
+          "pat_yoy": -20,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 1166.0,
+          "pat": 52.0,
+          "opm": 11.0,
+          "rev_yoy": -7,
+          "pat_yoy": -20,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 1215.0,
+          "pat": 71.0,
+          "opm": 11.0,
+          "rev_yoy": -8,
+          "pat_yoy": 37,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 1192.0,
+          "pat": 64.0,
+          "opm": 11.0,
+          "rev_yoy": -14,
+          "pat_yoy": -2,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 1290.0,
+          "pat": 74.0,
+          "opm": 11.0,
+          "rev_yoy": -16,
+          "pat_yoy": -13,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 1253.0,
+          "pat": 65.0,
+          "opm": 11.0,
+          "rev_yoy": -20,
+          "pat_yoy": -23,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 1321.0,
+          "pat": 52.0,
+          "opm": 12.0,
+          "rev_yoy": -22,
+          "pat_yoy": -58,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 1386.0,
+          "pat": 65.0,
+          "opm": 11.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 1535.0,
+          "pat": 85.0,
+          "opm": 12.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 1560.0,
+          "pat": 84.0,
+          "opm": 12.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 1704.0,
+          "pat": 124.0,
+          "opm": 12.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h15": {
+          "win_rate": null,
+          "n": 0
+        },
+        "h30": {
+          "win_rate": null,
+          "n": 0
+        }
+      }
+    },
+    "HONASA": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 388.0,
+          "pat": -162.0,
+          "opm": -1.0,
+          "rev_yoy": -18,
+          "pat_yoy": -640,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 464.0,
+          "pat": 25.0,
+          "opm": 6.0,
+          "rev_yoy": -16,
+          "pat_yoy": -38,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 496.0,
+          "pat": 29.0,
+          "opm": 8.0,
+          "rev_yoy": 7,
+          "pat_yoy": -253,
+          "score": 65,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 337.1,
+          "p7": 317.95,
+          "move_7": -5.68,
+          "p15": 349.7,
+          "move_15": 3.74,
+          "p30": 384.1,
+          "move_30": 13.94
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 488.0,
+          "pat": 26.0,
+          "opm": 7.0,
+          "rev_yoy": -6,
+          "pat_yoy": 0,
+          "score": 27,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 471.0,
+          "pat": 30.0,
+          "opm": 7.0,
+          "rev_yoy": -12,
+          "pat_yoy": 20,
+          "score": 42,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 554.0,
+          "pat": 40.0,
+          "opm": 8.0,
+          "rev_yoy": -7,
+          "pat_yoy": -2,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 462.0,
+          "pat": -19.0,
+          "opm": -7.0,
+          "rev_yoy": -14,
+          "pat_yoy": -149,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 518.0,
+          "pat": 26.0,
+          "opm": 5.0,
+          "rev_yoy": -14,
+          "pat_yoy": -48,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 534.0,
+          "pat": 25.0,
+          "opm": 5.0,
+          "rev_yoy": -19,
+          "pat_yoy": -64,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 595.0,
+          "pat": 41.0,
+          "opm": 8.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 538.0,
+          "pat": 39.0,
+          "opm": 9.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 602.0,
+          "pat": 50.0,
+          "opm": 11.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 657.0,
+          "pat": 69.0,
+          "opm": 12.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 52,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 0.0,
+          "n": 1
+        },
+        "h15": {
+          "win_rate": 100.0,
+          "n": 1
+        },
+        "h30": {
+          "win_rate": 100.0,
+          "n": 1
+        }
+      }
+    },
+    "GLENMARK": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 3001.0,
+          "pat": -403.0,
+          "opm": 13.0,
+          "rev_yoy": -2,
+          "pat_yoy": -67,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 3036.0,
+          "pat": 173.0,
+          "opm": 14.0,
+          "rev_yoy": -6,
+          "pat_yoy": -49,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 3207.0,
+          "pat": -62.0,
+          "opm": 14.0,
+          "rev_yoy": -7,
+          "pat_yoy": -118,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 2507.0,
+          "pat": -331.0,
+          "opm": -8.0,
+          "rev_yoy": -26,
+          "pat_yoy": -195,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 3063.0,
+          "pat": -1214.0,
+          "opm": 16.0,
+          "rev_yoy": -6,
+          "pat_yoy": -30450,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 3244.0,
+          "pat": 340.0,
+          "opm": 18.0,
+          "rev_yoy": -1,
+          "pat_yoy": 623,
+          "score": 51,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 3434.0,
+          "pat": 354.0,
+          "opm": 18.0,
+          "rev_yoy": -43,
+          "pat_yoy": -42,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 3388.0,
+          "pat": 348.0,
+          "opm": 18.0,
+          "rev_yoy": -13,
+          "pat_yoy": -14,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 3256.0,
+          "pat": 4.0,
+          "opm": 17.0,
+          "rev_yoy": -14,
+          "pat_yoy": -99,
+          "score": 44,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 3264.0,
+          "pat": 47.0,
+          "opm": 18.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 6047.0,
+          "pat": 610.0,
+          "opm": 39.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 1845.1,
+          "p7": 1817.3,
+          "move_7": -1.51,
+          "p15": 1840.8,
+          "move_15": -0.23,
+          "p30": 1973.8,
+          "move_30": 6.98
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 3901.0,
+          "pat": 403.0,
+          "opm": 22.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 3771.0,
+          "pat": 301.0,
+          "opm": 20.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 0.0,
+          "n": 1
+        },
+        "h15": {
+          "win_rate": 0.0,
+          "n": 1
+        },
+        "h30": {
+          "win_rate": 100.0,
+          "n": 1
+        }
+      }
+    },
+    "NMDC": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 5851.0,
+          "pat": 2272.0,
+          "opm": 37.0,
+          "rev_yoy": -10,
+          "pat_yoy": 61,
+          "score": 55,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 5395.0,
+          "pat": 1653.0,
+          "opm": 37.0,
+          "rev_yoy": 0,
+          "pat_yoy": -16,
+          "score": 63,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 37.75,
+          "p7": 37.92,
+          "move_7": 0.44,
+          "p15": 39.5,
+          "move_15": 4.64,
+          "p30": 46.0,
+          "move_30": 21.85
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 4014.0,
+          "pat": 1026.0,
+          "opm": 30.0,
+          "rev_yoy": -18,
+          "pat_yoy": -15,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 5410.0,
+          "pat": 1482.0,
+          "opm": 37.0,
+          "rev_yoy": -18,
+          "pat_yoy": -21,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 6489.0,
+          "pat": 1410.0,
+          "opm": 32.0,
+          "rev_yoy": -7,
+          "pat_yoy": -5,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 5414.0,
+          "pat": 1969.0,
+          "opm": 43.0,
+          "rev_yoy": -20,
+          "pat_yoy": 0,
+          "score": 40,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 4919.0,
+          "pat": 1205.0,
+          "opm": 28.0,
+          "rev_yoy": -23,
+          "pat_yoy": -29,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 6568.0,
+          "pat": 1880.0,
+          "opm": 36.0,
+          "rev_yoy": -14,
+          "pat_yoy": 7,
+          "score": 50,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 7005.0,
+          "pat": 1477.0,
+          "opm": 29.0,
+          "rev_yoy": -38,
+          "pat_yoy": -27,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 6739.0,
+          "pat": 1968.0,
+          "opm": 37.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 71.82,
+          "p7": 70.65,
+          "move_7": -1.63,
+          "p15": 70.72,
+          "move_15": -1.53,
+          "p30": 74.29,
+          "move_30": 3.44
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 6378.0,
+          "pat": 1698.0,
+          "opm": 31.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 74.27,
+          "p7": 75.79,
+          "move_7": 2.05,
+          "p15": 75.26,
+          "move_15": 1.33,
+          "p30": 75.97,
+          "move_30": 2.29
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 7611.0,
+          "pat": 1757.0,
+          "opm": 28.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 85.88,
+          "p7": 85.46,
+          "move_7": -0.49,
+          "p15": 79.22,
+          "move_15": -7.76,
+          "p30": 79.79,
+          "move_30": -7.09
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 11343.0,
+          "pat": 2027.0,
+          "opm": 23.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 50.0,
+          "n": 4
+        },
+        "h15": {
+          "win_rate": 50.0,
+          "n": 4
+        },
+        "h30": {
+          "win_rate": 75.0,
+          "n": 4
+        }
+      }
+    },
+    "NATCOPHARM": {
+      "quarters": [
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 898.0,
+          "pat": 276.0,
+          "opm": 38.0,
+          "rev_yoy": -16,
+          "pat_yoy": -28,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 1140.0,
+          "pat": 420.0,
+          "opm": 46.0,
+          "rev_yoy": -16,
+          "pat_yoy": -37,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 1031.0,
+          "pat": 369.0,
+          "opm": 44.0,
+          "rev_yoy": -25,
+          "pat_yoy": -45,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 759.0,
+          "pat": 213.0,
+          "opm": 35.0,
+          "rev_yoy": 60,
+          "pat_yoy": 61,
+          "score": 75,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 869.3,
+          "p7": 833.5,
+          "move_7": -4.12,
+          "p15": 1064.45,
+          "move_15": 22.45,
+          "p30": 982.85,
+          "move_30": 13.06
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 1068.0,
+          "pat": 386.0,
+          "opm": 47.0,
+          "rev_yoy": -13,
+          "pat_yoy": -5,
+          "score": 48,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 1363.0,
+          "pat": 668.0,
+          "opm": 59.0,
+          "rev_yoy": 3,
+          "pat_yoy": 39,
+          "score": 85,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 1309.15,
+          "p7": 1494.5,
+          "move_7": 14.16,
+          "p15": 1457.75,
+          "move_15": 11.35,
+          "p30": 1530.6,
+          "move_30": 16.92
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 1371.0,
+          "pat": 676.0,
+          "opm": 59.0,
+          "rev_yoy": 1,
+          "pat_yoy": 31,
+          "score": 85,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 1409.0,
+          "p7": 1395.25,
+          "move_7": -0.98,
+          "p15": 1364.65,
+          "move_15": -3.15,
+          "p30": 1430.65,
+          "move_30": 1.54
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 475.0,
+          "pat": 132.0,
+          "opm": 8.0,
+          "rev_yoy": -27,
+          "pat_yoy": -13,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 1221.0,
+          "pat": 406.0,
+          "opm": 45.0,
+          "rev_yoy": 65,
+          "pat_yoy": 51,
+          "score": 75,
+          "signal": "STRONG BUY",
+          "would_buy": true,
+          "entry": 855.95,
+          "p7": 833.8,
+          "move_7": -2.59,
+          "p15": 852.0,
+          "move_15": -0.46,
+          "p30": 858.95,
+          "move_30": 0.35
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 1329.0,
+          "pat": 480.0,
+          "opm": 43.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 934.65,
+          "p7": 899.8,
+          "move_7": -3.73,
+          "p15": 892.7,
+          "move_15": -4.49,
+          "p30": 872.0,
+          "move_30": -6.7
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 1363.0,
+          "pat": 518.0,
+          "opm": 42.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 819.85,
+          "p7": 792.95,
+          "move_7": -3.28,
+          "p15": 830.15,
+          "move_15": 1.26,
+          "p30": 949.25,
+          "move_30": 15.78
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 647.0,
+          "pat": 151.0,
+          "opm": 25.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2026",
+          "signal_date": "2026-05-05",
+          "rev": 739.0,
+          "pat": 269.0,
+          "opm": 17.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 56,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 16.7,
+          "n": 6
+        },
+        "h15": {
+          "win_rate": 50.0,
+          "n": 6
+        },
+        "h30": {
+          "win_rate": 83.3,
+          "n": 6
+        }
+      }
+    },
+    "FACT": {
+      "quarters": [
+        {
+          "q": "Dec 2022",
+          "signal_date": "2023-02-04",
+          "rev": 1722.0,
+          "pat": 166.0,
+          "opm": 12.0,
+          "rev_yoy": 57,
+          "pat_yoy": 453,
+          "score": 67,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 276.1,
+          "p7": 259.9,
+          "move_7": -5.87,
+          "p15": 240.95,
+          "move_15": -12.73,
+          "p30": 251.0,
+          "move_30": -9.09
+        },
+        {
+          "q": "Mar 2023",
+          "signal_date": "2023-05-05",
+          "rev": 1249.0,
+          "pat": 165.0,
+          "opm": 15.0,
+          "rev_yoy": 18,
+          "pat_yoy": -370,
+          "score": 70,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 323.2,
+          "p7": 307.45,
+          "move_7": -4.87,
+          "p15": 303.7,
+          "move_15": -6.03,
+          "p30": 312.0,
+          "move_30": -3.47
+        },
+        {
+          "q": "Jun 2023",
+          "signal_date": "2023-08-04",
+          "rev": 1233.0,
+          "pat": 72.0,
+          "opm": 12.0,
+          "rev_yoy": 106,
+          "pat_yoy": -247,
+          "score": 60,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 476.15,
+          "p7": 444.25,
+          "move_7": -6.7,
+          "p15": 444.3,
+          "move_15": -6.69,
+          "p30": 468.9,
+          "move_30": -1.52
+        },
+        {
+          "q": "Sep 2023",
+          "signal_date": "2023-11-04",
+          "rev": 1663.0,
+          "pat": 105.0,
+          "opm": 8.0,
+          "rev_yoy": 15,
+          "pat_yoy": 855,
+          "score": 72,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 718.65,
+          "p7": 728.7,
+          "move_7": 1.4,
+          "p15": 714.8,
+          "move_15": -0.54,
+          "p30": 749.25,
+          "move_30": 4.26
+        },
+        {
+          "q": "Dec 2023",
+          "signal_date": "2024-02-04",
+          "rev": 1097.0,
+          "pat": 30.0,
+          "opm": 4.0,
+          "rev_yoy": 16,
+          "pat_yoy": 275,
+          "score": 72,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 785.8,
+          "p7": 773.9,
+          "move_7": -1.51,
+          "p15": 831.15,
+          "move_15": 5.77,
+          "p30": 716.95,
+          "move_30": -8.76
+        },
+        {
+          "q": "Mar 2024",
+          "signal_date": "2024-05-05",
+          "rev": 1062.0,
+          "pat": -61.0,
+          "opm": 4.0,
+          "rev_yoy": 1,
+          "pat_yoy": -186,
+          "score": 65,
+          "signal": "BUY",
+          "would_buy": true,
+          "entry": 691.55,
+          "p7": 644.0,
+          "move_7": -6.88,
+          "p15": 701.45,
+          "move_15": 1.43,
+          "p30": 638.25,
+          "move_30": -7.71
+        },
+        {
+          "q": "Jun 2024",
+          "signal_date": "2024-08-04",
+          "rev": 600.0,
+          "pat": -49.0,
+          "opm": -9.0,
+          "rev_yoy": -42,
+          "pat_yoy": -1325,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2024",
+          "signal_date": "2024-11-04",
+          "rev": 1449.0,
+          "pat": 11.0,
+          "opm": 2.0,
+          "rev_yoy": -11,
+          "pat_yoy": -48,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2024",
+          "signal_date": "2025-02-04",
+          "rev": 949.0,
+          "pat": 8.0,
+          "opm": 3.0,
+          "rev_yoy": -39,
+          "pat_yoy": -112,
+          "score": 35,
+          "signal": "AVOID",
+          "would_buy": false
+        },
+        {
+          "q": "Mar 2025",
+          "signal_date": "2025-05-05",
+          "rev": 1053.0,
+          "pat": 71.0,
+          "opm": 8.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Jun 2025",
+          "signal_date": "2025-08-04",
+          "rev": 1043.0,
+          "pat": 4.0,
+          "opm": 2.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Sep 2025",
+          "signal_date": "2025-11-04",
+          "rev": 1629.0,
+          "pat": 21.0,
+          "opm": 2.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        },
+        {
+          "q": "Dec 2025",
+          "signal_date": "2026-02-04",
+          "rev": 1568.0,
+          "pat": -68.0,
+          "opm": -3.0,
+          "rev_yoy": null,
+          "pat_yoy": null,
+          "score": 47,
+          "signal": "HOLD",
+          "would_buy": false
+        }
+      ],
+      "source": "screener.in + NSE historical",
+      "win_rates": {
+        "h7": {
+          "win_rate": 16.7,
+          "n": 6
+        },
+        "h15": {
+          "win_rate": 33.3,
+          "n": 6
+        },
+        "h30": {
+          "win_rate": 16.7,
+          "n": 6
+        }
+      }
+    }
+  },
+  "price_source": "Yahoo Finance",
+  "source": "screener.in + Yahoo Finance"
+}

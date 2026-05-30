@@ -1,0 +1,5677 @@
+{
+  "rankings": [
+    {
+      "ticker": "HSCL",
+      "flow_score": 90.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+3.02%)",
+        "DII rising (+2.69%)",
+        "Promoter rising (+7.53%)"
+      ],
+      "fii_latest": 5.98,
+      "dii_latest": 3.22,
+      "promoter_latest": 52.49
+    },
+    {
+      "ticker": "JKPAPER",
+      "flow_score": 90.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+1.13%)",
+        "DII rising (+3.04%)",
+        "Promoter rising (+3.3%)"
+      ],
+      "fii_latest": 11.59,
+      "dii_latest": 6.15,
+      "promoter_latest": 52.94
+    },
+    {
+      "ticker": "SUPRAJIT",
+      "flow_score": 90.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+1.39%)",
+        "DII rising (+1.27%)",
+        "Promoter rising (+0.62%)"
+      ],
+      "fii_latest": 6.5,
+      "dii_latest": 17.17,
+      "promoter_latest": 45.26
+    },
+    {
+      "ticker": "ICICIGI",
+      "flow_score": 83.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "DII rising (+1.31%)",
+        "Promoter rising (+3.27%)"
+      ],
+      "fii_latest": 22.29,
+      "dii_latest": 19.41,
+      "promoter_latest": 51.28
+    },
+    {
+      "ticker": "SUVEN",
+      "flow_score": 83.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+0.43%)",
+        "DII rising (+4.54%)",
+        "Promoter rising (+0.59%)"
+      ],
+      "fii_latest": 0.91,
+      "dii_latest": 4.62,
+      "promoter_latest": 70.15
+    },
+    {
+      "ticker": "BSE",
+      "flow_score": 80.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+10.65%)",
+        "DII rising (+24.55%)"
+      ],
+      "fii_latest": 19.42,
+      "dii_latest": 25.09,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "CAPLIPOINT",
+      "flow_score": 80.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+3.47%)",
+        "DII rising (+1.87%)"
+      ],
+      "fii_latest": 6.15,
+      "dii_latest": 2.14,
+      "promoter_latest": 70.57
+    },
+    {
+      "ticker": "CARERATING",
+      "flow_score": 80.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+3.0%)",
+        "DII rising (+8.21%)"
+      ],
+      "fii_latest": 23.25,
+      "dii_latest": 31.38,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "GRAPHITE",
+      "flow_score": 80.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+2.65%)",
+        "DII rising (+1.98%)"
+      ],
+      "fii_latest": 6.7,
+      "dii_latest": 10.49,
+      "promoter_latest": 65.34
+    },
+    {
+      "ticker": "HEG",
+      "flow_score": 80.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+3.5%)",
+        "DII rising (+1.21%)",
+        "Promoter rising (+0.5%)"
+      ],
+      "fii_latest": 10.23,
+      "dii_latest": 8.63,
+      "promoter_latest": 56.27
+    },
+    {
+      "ticker": "KARURVYSYA",
+      "flow_score": 80.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+1.35%)",
+        "DII rising (+7.16%)"
+      ],
+      "fii_latest": 19.25,
+      "dii_latest": 39.26,
+      "promoter_latest": 2.07
+    },
+    {
+      "ticker": "LAURUSLABS",
+      "flow_score": 80.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+3.3%)",
+        "DII rising (+3.6%)"
+      ],
+      "fii_latest": 25.82,
+      "dii_latest": 13.96,
+      "promoter_latest": 27.49
+    },
+    {
+      "ticker": "MINDACORP",
+      "flow_score": 80.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+3.06%)",
+        "DII rising (+6.94%)"
+      ],
+      "fii_latest": 8.8,
+      "dii_latest": 18.82,
+      "promoter_latest": 64.84
+    },
+    {
+      "ticker": "SAIL",
+      "flow_score": 80.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+1.19%)",
+        "DII rising (+4.77%)"
+      ],
+      "fii_latest": 5.01,
+      "dii_latest": 18.4,
+      "promoter_latest": 65.0
+    },
+    {
+      "ticker": "SOUTHBANK",
+      "flow_score": 80.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+10.62%)",
+        "DII rising (+4.91%)"
+      ],
+      "fii_latest": 24.21,
+      "dii_latest": 12.75,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "THYROCARE",
+      "flow_score": 80.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+1.93%)",
+        "DII rising (+7.54%)"
+      ],
+      "fii_latest": 5.37,
+      "dii_latest": 21.0,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "WELCORP",
+      "flow_score": 80.0,
+      "category": "Strong Accumulation (FII+DII buying)",
+      "key_drivers": [
+        "FII rising (+3.45%)",
+        "DII rising (+10.53%)"
+      ],
+      "fii_latest": 11.23,
+      "dii_latest": 21.49,
+      "promoter_latest": 49.73
+    },
+    {
+      "ticker": "GRASIM",
+      "flow_score": 75.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+2.62%)",
+        "DII falling (-0.54%)",
+        "Promoter rising (+0.98%)"
+      ],
+      "fii_latest": 14.91,
+      "dii_latest": 16.28,
+      "promoter_latest": 43.73
+    },
+    {
+      "ticker": "ECLERX",
+      "flow_score": 75.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII falling (-0.8%)",
+        "DII rising (+3.06%)",
+        "Promoter rising (+0.92%)"
+      ],
+      "fii_latest": 11.82,
+      "dii_latest": 23.95,
+      "promoter_latest": 54.53
+    },
+    {
+      "ticker": "GAYAPROJ",
+      "flow_score": 75.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+14.08%)",
+        "Promoter rising (+19.19%)"
+      ],
+      "fii_latest": 18.0,
+      "dii_latest": 1.11,
+      "promoter_latest": 23.13
+    },
+    {
+      "ticker": "IFCI",
+      "flow_score": 75.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+1.14%)",
+        "DII falling (-0.36%)",
+        "Promoter rising (+2.25%)"
+      ],
+      "fii_latest": 2.65,
+      "dii_latest": 1.64,
+      "promoter_latest": 72.57
+    },
+    {
+      "ticker": "MAHSEAMLES",
+      "flow_score": 75.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+3.62%)",
+        "DII falling (-0.89%)",
+        "Promoter rising (+2.48%)"
+      ],
+      "fii_latest": 9.58,
+      "dii_latest": 3.29,
+      "promoter_latest": 70.28
+    },
+    {
+      "ticker": "UPL",
+      "flow_score": 75.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+3.82%)",
+        "DII falling (-0.61%)",
+        "Promoter rising (+0.99%)"
+      ],
+      "fii_latest": 41.78,
+      "dii_latest": 14.63,
+      "promoter_latest": 33.5
+    },
+    {
+      "ticker": "WIPRO",
+      "flow_score": 73.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+2.0%)",
+        "DII rising (+0.3%)"
+      ],
+      "fii_latest": 8.32,
+      "dii_latest": 7.86,
+      "promoter_latest": 72.62
+    },
+    {
+      "ticker": "TATAPOWER",
+      "flow_score": 73.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "DII rising (+3.39%)"
+      ],
+      "fii_latest": 10.04,
+      "dii_latest": 17.98,
+      "promoter_latest": 46.86
+    },
+    {
+      "ticker": "BBTC",
+      "flow_score": 73.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+1.24%)"
+      ],
+      "fii_latest": 9.48,
+      "dii_latest": 1.46,
+      "promoter_latest": 74.04
+    },
+    {
+      "ticker": "CCL",
+      "flow_score": 73.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+3.54%)",
+        "DII rising (+0.38%)"
+      ],
+      "fii_latest": 11.24,
+      "dii_latest": 21.43,
+      "promoter_latest": 46.11
+    },
+    {
+      "ticker": "DMART",
+      "flow_score": 73.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+0.83%)",
+        "DII rising (+1.11%)"
+      ],
+      "fii_latest": 9.0,
+      "dii_latest": 8.77,
+      "promoter_latest": 74.51
+    },
+    {
+      "ticker": "JKCEMENT",
+      "flow_score": 73.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+1.36%)",
+        "DII rising (+0.6%)"
+      ],
+      "fii_latest": 16.86,
+      "dii_latest": 23.75,
+      "promoter_latest": 45.66
+    },
+    {
+      "ticker": "KRBL",
+      "flow_score": 73.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+3.44%)",
+        "DII rising (+0.62%)"
+      ],
+      "fii_latest": 7.76,
+      "dii_latest": 0.71,
+      "promoter_latest": 60.17
+    },
+    {
+      "ticker": "NBCC",
+      "flow_score": 73.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+1.15%)",
+        "DII rising (+0.42%)"
+      ],
+      "fii_latest": 4.99,
+      "dii_latest": 10.75,
+      "promoter_latest": 61.75
+    },
+    {
+      "ticker": "VMART",
+      "flow_score": 73.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+2.1%)",
+        "DII rising (+0.9%)"
+      ],
+      "fii_latest": 16.92,
+      "dii_latest": 31.87,
+      "promoter_latest": 44.2
+    },
+    {
+      "ticker": "BAJAJCON",
+      "flow_score": 70.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+3.84%)",
+        "DII falling (-2.7%)",
+        "Promoter rising (+3.62%)"
+      ],
+      "fii_latest": 16.59,
+      "dii_latest": 14.27,
+      "promoter_latest": 42.97
+    },
+    {
+      "ticker": "CHAMBLFERT",
+      "flow_score": 70.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+5.46%)",
+        "DII falling (-6.58%)",
+        "Promoter rising (+0.69%)"
+      ],
+      "fii_latest": 15.1,
+      "dii_latest": 5.4,
+      "promoter_latest": 61.25
+    },
+    {
+      "ticker": "KSCL",
+      "flow_score": 70.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+2.26%)",
+        "DII falling (-3.89%)",
+        "Promoter rising (+0.6%)"
+      ],
+      "fii_latest": 18.55,
+      "dii_latest": 2.87,
+      "promoter_latest": 60.5
+    },
+    {
+      "ticker": "MONSANTO",
+      "flow_score": 70.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+2.18%)",
+        "DII falling (-7.37%)",
+        "Promoter rising (+9.7%)"
+      ],
+      "fii_latest": 2.18,
+      "dii_latest": 0.23,
+      "promoter_latest": 81.84
+    },
+    {
+      "ticker": "RALLIS",
+      "flow_score": 70.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+3.86%)",
+        "DII falling (-2.19%)",
+        "Promoter rising (+4.99%)"
+      ],
+      "fii_latest": 11.55,
+      "dii_latest": 11.32,
+      "promoter_latest": 55.08
+    },
+    {
+      "ticker": "TVTODAY",
+      "flow_score": 70.0,
+      "category": "Institutional Accumulation",
+      "key_drivers": [
+        "FII rising (+3.02%)",
+        "DII falling (-14.53%)",
+        "Promoter rising (+4.75%)"
+      ],
+      "fii_latest": 4.53,
+      "dii_latest": 0.07,
+      "promoter_latest": 63.2
+    },
+    {
+      "ticker": "JSLHISAR",
+      "flow_score": 68.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.47%)",
+        "DII falling (-0.68%)",
+        "Promoter rising (+1.21%)"
+      ],
+      "fii_latest": 21.07,
+      "dii_latest": 4.73,
+      "promoter_latest": 58.88
+    },
+    {
+      "ticker": "MARUTI",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-7.75%)",
+        "DII rising (+6.02%)",
+        "Promoter rising (+2.05%)"
+      ],
+      "fii_latest": 14.12,
+      "dii_latest": 24.09,
+      "promoter_latest": 58.53
+    },
+    {
+      "ticker": "ADANIENT",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-8.54%)",
+        "DII rising (+1.24%)",
+        "Promoter rising (+7.02%)"
+      ],
+      "fii_latest": 10.8,
+      "dii_latest": 6.7,
+      "promoter_latest": 74.67
+    },
+    {
+      "ticker": "ADANIPORTS",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.74%)",
+        "DII rising (+1.41%)",
+        "Promoter rising (+5.13%)"
+      ],
+      "fii_latest": 13.25,
+      "dii_latest": 13.86,
+      "promoter_latest": 68.02
+    },
+    {
+      "ticker": "AAVAS",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-18.27%)",
+        "DII rising (+7.8%)",
+        "Promoter rising (+9.75%)"
+      ],
+      "fii_latest": 16.74,
+      "dii_latest": 22.14,
+      "promoter_latest": 48.88
+    },
+    {
+      "ticker": "ADANIGREEN",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-7.15%)",
+        "DII rising (+3.09%)",
+        "Promoter rising (+6.17%)"
+      ],
+      "fii_latest": 11.1,
+      "dii_latest": 4.56,
+      "promoter_latest": 62.44
+    },
+    {
+      "ticker": "AMBUJACEM",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-5.82%)",
+        "DII rising (+4.36%)",
+        "Promoter rising (+4.14%)"
+      ],
+      "fii_latest": 5.83,
+      "dii_latest": 19.62,
+      "promoter_latest": 67.33
+    },
+    {
+      "ticker": "ERIS",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-7.39%)",
+        "DII rising (+9.62%)",
+        "Promoter rising (+1.06%)"
+      ],
+      "fii_latest": 6.39,
+      "dii_latest": 20.35,
+      "promoter_latest": 53.92
+    },
+    {
+      "ticker": "GDL",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-11.22%)",
+        "DII rising (+5.77%)",
+        "Promoter rising (+2.42%)"
+      ],
+      "fii_latest": 20.11,
+      "dii_latest": 32.35,
+      "promoter_latest": 32.14
+    },
+    {
+      "ticker": "GODREJIND",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-6.29%)",
+        "DII rising (+1.63%)",
+        "Promoter rising (+7.46%)"
+      ],
+      "fii_latest": 4.47,
+      "dii_latest": 3.47,
+      "promoter_latest": 74.63
+    },
+    {
+      "ticker": "GUJALKALI",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.04%)",
+        "DII rising (+2.21%)",
+        "Promoter rising (+1.0%)"
+      ],
+      "fii_latest": 0.94,
+      "dii_latest": 3.72,
+      "promoter_latest": 47.28
+    },
+    {
+      "ticker": "INDIACEM",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-10.16%)",
+        "DII rising (+3.47%)",
+        "Promoter rising (+46.58%)"
+      ],
+      "fii_latest": 3.49,
+      "dii_latest": 12.9,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "JINDALSTEL",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.52%)",
+        "DII rising (+4.4%)",
+        "Promoter rising (+1.5%)"
+      ],
+      "fii_latest": 9.19,
+      "dii_latest": 19.14,
+      "promoter_latest": 62.71
+    },
+    {
+      "ticker": "JSL",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.33%)",
+        "DII rising (+1.14%)",
+        "Promoter rising (+4.09%)"
+      ],
+      "fii_latest": 20.87,
+      "dii_latest": 7.15,
+      "promoter_latest": 62.04
+    },
+    {
+      "ticker": "NCC",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-10.35%)",
+        "DII rising (+4.11%)",
+        "Promoter rising (+0.81%)"
+      ],
+      "fii_latest": 12.11,
+      "dii_latest": 16.4,
+      "promoter_latest": 22.81
+    },
+    {
+      "ticker": "SHOPERSTOP",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.77%)",
+        "DII rising (+4.08%)",
+        "Promoter rising (+0.6%)"
+      ],
+      "fii_latest": 2.06,
+      "dii_latest": 25.45,
+      "promoter_latest": 66.06
+    },
+    {
+      "ticker": "SOBHA",
+      "flow_score": 67.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-6.51%)",
+        "DII rising (+13.89%)",
+        "Promoter rising (+0.6%)"
+      ],
+      "fii_latest": 6.23,
+      "dii_latest": 26.1,
+      "promoter_latest": 52.88
+    },
+    {
+      "ticker": "GALAXYSURF",
+      "flow_score": 66.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+1.0%)",
+        "DII rising (+0.47%)"
+      ],
+      "fii_latest": 3.99,
+      "dii_latest": 13.11,
+      "promoter_latest": 70.91
+    },
+    {
+      "ticker": "ICRA",
+      "flow_score": 66.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [],
+      "fii_latest": 7.92,
+      "dii_latest": 24.51,
+      "promoter_latest": 51.86
+    },
+    {
+      "ticker": "OFSS",
+      "flow_score": 66.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+0.66%)",
+        "Promoter falling (-0.46%)"
+      ],
+      "fii_latest": 8.04,
+      "dii_latest": 9.12,
+      "promoter_latest": 72.44
+    },
+    {
+      "ticker": "SCHAEFFLER",
+      "flow_score": 66.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+0.45%)"
+      ],
+      "fii_latest": 4.25,
+      "dii_latest": 16.32,
+      "promoter_latest": 74.13
+    },
+    {
+      "ticker": "HDFCBANK",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+10.67%)",
+        "DII rising (+13.39%)",
+        "Promoter falling (-25.52%)"
+      ],
+      "fii_latest": 44.05,
+      "dii_latest": 40.14,
+      "promoter_latest": 0.0
+    },
+    {
+      "ticker": "SBIN",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.05%)",
+        "DII rising (+1.28%)",
+        "Promoter falling (-1.95%)"
+      ],
+      "fii_latest": 11.41,
+      "dii_latest": 26.11,
+      "promoter_latest": 55.52
+    },
+    {
+      "ticker": "BAJFINANCE",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.24%)",
+        "DII rising (+2.27%)",
+        "Promoter falling (-1.16%)"
+      ],
+      "fii_latest": 21.33,
+      "dii_latest": 15.1,
+      "promoter_latest": 54.71
+    },
+    {
+      "ticker": "SUNPHARMA",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.54%)",
+        "DII rising (+1.35%)"
+      ],
+      "fii_latest": 15.94,
+      "dii_latest": 21.0,
+      "promoter_latest": 54.48
+    },
+    {
+      "ticker": "JSWSTEEL",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.6%)",
+        "DII rising (+1.57%)"
+      ],
+      "fii_latest": 25.38,
+      "dii_latest": 11.16,
+      "promoter_latest": 45.31
+    },
+    {
+      "ticker": "DIXON",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+3.3%)",
+        "DII rising (+3.53%)",
+        "Promoter falling (-5.35%)"
+      ],
+      "fii_latest": 18.3,
+      "dii_latest": 28.14,
+      "promoter_latest": 28.69
+    },
+    {
+      "ticker": "INDIGO",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.88%)",
+        "DII rising (+20.77%)",
+        "Promoter falling (-26.2%)"
+      ],
+      "fii_latest": 21.64,
+      "dii_latest": 31.14,
+      "promoter_latest": 41.57
+    },
+    {
+      "ticker": "PERSISTENT",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+1.61%)",
+        "DII rising (+2.43%)",
+        "Promoter falling (-0.77%)"
+      ],
+      "fii_latest": 22.11,
+      "dii_latest": 30.47,
+      "promoter_latest": 30.29
+    },
+    {
+      "ticker": "MPHASIS",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+2.32%)",
+        "DII rising (+24.6%)",
+        "Promoter falling (-25.03%)"
+      ],
+      "fii_latest": 19.51,
+      "dii_latest": 45.65,
+      "promoter_latest": 30.55
+    },
+    {
+      "ticker": "PNB",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+4.57%)",
+        "DII rising (+2.61%)",
+        "Promoter falling (-3.07%)"
+      ],
+      "fii_latest": 6.39,
+      "dii_latest": 16.05,
+      "promoter_latest": 70.08
+    },
+    {
+      "ticker": "FEDERALBNK",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+8.28%)"
+      ],
+      "fii_latest": 26.05,
+      "dii_latest": 50.39,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "IDFCFIRSTB",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+15.67%)",
+        "DII rising (+15.02%)",
+        "Promoter falling (-39.93%)"
+      ],
+      "fii_latest": 36.52,
+      "dii_latest": 22.73,
+      "promoter_latest": 0.0
+    },
+    {
+      "ticker": "ADANIPOWER",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+3.65%)"
+      ],
+      "fii_latest": 11.73,
+      "dii_latest": 3.69,
+      "promoter_latest": 74.96
+    },
+    {
+      "ticker": "ALKEM",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+4.52%)",
+        "DII rising (+5.05%)",
+        "Promoter falling (-5.96%)"
+      ],
+      "fii_latest": 10.15,
+      "dii_latest": 21.39,
+      "promoter_latest": 51.2
+    },
+    {
+      "ticker": "APLAPOLLO",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+12.45%)",
+        "DII rising (+3.32%)",
+        "Promoter falling (-2.36%)"
+      ],
+      "fii_latest": 37.52,
+      "dii_latest": 16.05,
+      "promoter_latest": 28.25
+    },
+    {
+      "ticker": "APLLTD",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+2.52%)"
+      ],
+      "fii_latest": 4.26,
+      "dii_latest": 16.17,
+      "promoter_latest": 69.74
+    },
+    {
+      "ticker": "ASTRAZEN",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+3.88%)"
+      ],
+      "fii_latest": 2.78,
+      "dii_latest": 5.79,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "BANKINDIA",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+5.01%)",
+        "DII rising (+4.06%)",
+        "Promoter falling (-8.03%)"
+      ],
+      "fii_latest": 7.26,
+      "dii_latest": 13.96,
+      "promoter_latest": 73.38
+    },
+    {
+      "ticker": "BASF",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.32%)"
+      ],
+      "fii_latest": 5.34,
+      "dii_latest": 6.29,
+      "promoter_latest": 73.33
+    },
+    {
+      "ticker": "BLUEDART",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.82%)",
+        "DII rising (+3.44%)"
+      ],
+      "fii_latest": 3.42,
+      "dii_latest": 14.54,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "BLUESTARCO",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+2.74%)",
+        "DII rising (+3.27%)",
+        "Promoter falling (-2.43%)"
+      ],
+      "fii_latest": 13.8,
+      "dii_latest": 27.78,
+      "promoter_latest": 36.48
+    },
+    {
+      "ticker": "CESC",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.59%)",
+        "DII rising (+5.2%)"
+      ],
+      "fii_latest": 11.61,
+      "dii_latest": 26.24,
+      "promoter_latest": 52.11
+    },
+    {
+      "ticker": "CHENNPETRO",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+4.1%)"
+      ],
+      "fii_latest": 12.59,
+      "dii_latest": 2.11,
+      "promoter_latest": 67.29
+    },
+    {
+      "ticker": "DCMSHRIRAM",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+1.39%)"
+      ],
+      "fii_latest": 3.97,
+      "dii_latest": 8.55,
+      "promoter_latest": 66.53
+    },
+    {
+      "ticker": "EIDPARRY",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.8%)",
+        "DII rising (+11.99%)",
+        "Promoter falling (-3.07%)"
+      ],
+      "fii_latest": 12.2,
+      "dii_latest": 16.75,
+      "promoter_latest": 41.45
+    },
+    {
+      "ticker": "EIHOTEL",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.59%)"
+      ],
+      "fii_latest": 6.62,
+      "dii_latest": 13.88,
+      "promoter_latest": 32.85
+    },
+    {
+      "ticker": "ESCORTS",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+1.8%)",
+        "Promoter rising (+0.39%)"
+      ],
+      "fii_latest": 5.71,
+      "dii_latest": 11.66,
+      "promoter_latest": 68.04
+    },
+    {
+      "ticker": "GICRE",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.28%)",
+        "DII rising (+2.53%)",
+        "Promoter falling (-3.38%)"
+      ],
+      "fii_latest": 2.05,
+      "dii_latest": 13.55,
+      "promoter_latest": 82.4
+    },
+    {
+      "ticker": "GRUH",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+4.52%)",
+        "DII rising (+7.32%)",
+        "Promoter falling (-11.12%)"
+      ],
+      "fii_latest": 18.74,
+      "dii_latest": 11.83,
+      "promoter_latest": 47.43
+    },
+    {
+      "ticker": "GUJGASLTD",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+6.77%)",
+        "DII rising (+11.55%)",
+        "Promoter falling (-21.95%)"
+      ],
+      "fii_latest": 10.57,
+      "dii_latest": 24.64,
+      "promoter_latest": 38.94
+    },
+    {
+      "ticker": "GULFOILLUB",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+5.22%)",
+        "DII rising (+1.77%)",
+        "Promoter falling (-4.99%)"
+      ],
+      "fii_latest": 8.91,
+      "dii_latest": 8.17,
+      "promoter_latest": 67.01
+    },
+    {
+      "ticker": "HATSUN",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.94%)",
+        "DII rising (+1.72%)"
+      ],
+      "fii_latest": 3.13,
+      "dii_latest": 10.26,
+      "promoter_latest": 73.17
+    },
+    {
+      "ticker": "HIMATSEIDE",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+8.41%)",
+        "DII rising (+3.23%)",
+        "Promoter falling (-10.09%)"
+      ],
+      "fii_latest": 11.1,
+      "dii_latest": 5.65,
+      "promoter_latest": 37.48
+    },
+    {
+      "ticker": "HINDZINC",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.58%)",
+        "DII rising (+1.89%)",
+        "Promoter falling (-4.21%)"
+      ],
+      "fii_latest": 2.39,
+      "dii_latest": 4.84,
+      "promoter_latest": 60.71
+    },
+    {
+      "ticker": "HUDCO",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.9%)",
+        "DII rising (+3.86%)",
+        "Promoter falling (-6.81%)"
+      ],
+      "fii_latest": 2.22,
+      "dii_latest": 11.03,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "IDEA",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+3.27%)",
+        "DII rising (+5.46%)",
+        "Promoter falling (-24.72%)"
+      ],
+      "fii_latest": 5.56,
+      "dii_latest": 6.19,
+      "promoter_latest": 25.64
+    },
+    {
+      "ticker": "IFBIND",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.92%)",
+        "DII rising (+1.98%)"
+      ],
+      "fii_latest": 0.92,
+      "dii_latest": 6.16,
+      "promoter_latest": 74.96
+    },
+    {
+      "ticker": "INDIANB",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.82%)",
+        "DII rising (+6.18%)",
+        "Promoter falling (-6.02%)"
+      ],
+      "fii_latest": 5.82,
+      "dii_latest": 17.75,
+      "promoter_latest": 73.84
+    },
+    {
+      "ticker": "INOXLEISUR",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+9.29%)",
+        "DII rising (+3.15%)",
+        "Promoter falling (-7.85%)"
+      ],
+      "fii_latest": 18.61,
+      "dii_latest": 26.45,
+      "promoter_latest": 44.04
+    },
+    {
+      "ticker": "INOXWIND",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+12.03%)",
+        "DII rising (+10.87%)",
+        "Promoter falling (-27.83%)"
+      ],
+      "fii_latest": 14.6,
+      "dii_latest": 10.96,
+      "promoter_latest": 44.18
+    },
+    {
+      "ticker": "INTELLECT",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.54%)",
+        "DII rising (+2.19%)",
+        "Promoter falling (-0.77%)"
+      ],
+      "fii_latest": 25.57,
+      "dii_latest": 7.1,
+      "promoter_latest": 29.73
+    },
+    {
+      "ticker": "ISEC",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+3.85%)",
+        "DII rising (+1.41%)",
+        "Promoter falling (-0.54%)"
+      ],
+      "fii_latest": 11.17,
+      "dii_latest": 8.49,
+      "promoter_latest": 74.35
+    },
+    {
+      "ticker": "J&KBANK",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+6.16%)",
+        "DII rising (+3.57%)",
+        "Promoter falling (-4.01%)"
+      ],
+      "fii_latest": 8.35,
+      "dii_latest": 6.0,
+      "promoter_latest": 59.4
+    },
+    {
+      "ticker": "JBCHEPHARM",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+6.8%)",
+        "DII rising (+2.73%)",
+        "Promoter falling (-5.11%)"
+      ],
+      "fii_latest": 16.33,
+      "dii_latest": 21.38,
+      "promoter_latest": 48.8
+    },
+    {
+      "ticker": "JKTYRE",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+9.9%)",
+        "DII rising (+6.23%)",
+        "Promoter falling (-4.54%)"
+      ],
+      "fii_latest": 18.59,
+      "dii_latest": 7.45,
+      "promoter_latest": 51.72
+    },
+    {
+      "ticker": "JSWENERGY",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+4.56%)",
+        "DII rising (+4.7%)",
+        "Promoter falling (-5.25%)"
+      ],
+      "fii_latest": 9.74,
+      "dii_latest": 14.29,
+      "promoter_latest": 69.41
+    },
+    {
+      "ticker": "KPRMILL",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+3.61%)",
+        "DII rising (+4.76%)",
+        "Promoter falling (-7.26%)"
+      ],
+      "fii_latest": 6.64,
+      "dii_latest": 19.47,
+      "promoter_latest": 67.52
+    },
+    {
+      "ticker": "LAKSHVILAS",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.79%)",
+        "DII rising (+3.12%)",
+        "Promoter falling (-2.22%)"
+      ],
+      "fii_latest": 8.65,
+      "dii_latest": 6.82,
+      "promoter_latest": 6.8
+    },
+    {
+      "ticker": "MAHABANK",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+4.87%)",
+        "DII rising (+7.5%)",
+        "Promoter falling (-12.86%)"
+      ],
+      "fii_latest": 5.55,
+      "dii_latest": 13.93,
+      "promoter_latest": 73.6
+    },
+    {
+      "ticker": "MARICO",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.88%)",
+        "DII rising (+1.97%)",
+        "Promoter falling (-0.48%)"
+      ],
+      "fii_latest": 24.08,
+      "dii_latest": 12.17,
+      "promoter_latest": 58.93
+    },
+    {
+      "ticker": "MASFIN",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.87%)",
+        "DII rising (+9.46%)",
+        "Promoter falling (-7.06%)"
+      ],
+      "fii_latest": 3.46,
+      "dii_latest": 20.04,
+      "promoter_latest": 66.66
+    },
+    {
+      "ticker": "MFSL",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.58%)",
+        "DII rising (+10.4%)"
+      ],
+      "fii_latest": 47.88,
+      "dii_latest": 44.74,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "MHRIL",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+2.72%)"
+      ],
+      "fii_latest": 5.3,
+      "dii_latest": 11.01,
+      "promoter_latest": 66.74
+    },
+    {
+      "ticker": "MINDTREE",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.6%)",
+        "DII rising (+5.58%)",
+        "Promoter falling (-12.69%)"
+      ],
+      "fii_latest": 12.06,
+      "dii_latest": 11.82,
+      "promoter_latest": 60.95
+    },
+    {
+      "ticker": "MRPL",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.33%)",
+        "DII falling (-0.36%)"
+      ],
+      "fii_latest": 3.41,
+      "dii_latest": 0.34,
+      "promoter_latest": 88.58
+    },
+    {
+      "ticker": "NAVINFLUOR",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+5.28%)",
+        "DII rising (+1.64%)",
+        "Promoter falling (-1.7%)"
+      ],
+      "fii_latest": 23.78,
+      "dii_latest": 27.61,
+      "promoter_latest": 27.1
+    },
+    {
+      "ticker": "NESCO",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.54%)"
+      ],
+      "fii_latest": 4.63,
+      "dii_latest": 3.84,
+      "promoter_latest": 68.54
+    },
+    {
+      "ticker": "NLCINDIA",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+2.8%)",
+        "DII rising (+5.95%)",
+        "Promoter falling (-7.0%)"
+      ],
+      "fii_latest": 3.61,
+      "dii_latest": 13.97,
+      "promoter_latest": 72.2
+    },
+    {
+      "ticker": "PCJEWELLER",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+12.44%)",
+        "DII rising (+3.26%)",
+        "Promoter falling (-16.03%)"
+      ],
+      "fii_latest": 13.28,
+      "dii_latest": 4.75,
+      "promoter_latest": 38.5
+    },
+    {
+      "ticker": "PFIZER",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+2.0%)"
+      ],
+      "fii_latest": 2.81,
+      "dii_latest": 16.89,
+      "promoter_latest": 63.92
+    },
+    {
+      "ticker": "PGHL",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.95%)",
+        "DII rising (+1.38%)"
+      ],
+      "fii_latest": 6.2,
+      "dii_latest": 13.67,
+      "promoter_latest": 51.82
+    },
+    {
+      "ticker": "PRAJIND",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.56%)",
+        "DII rising (+4.28%)"
+      ],
+      "fii_latest": 17.74,
+      "dii_latest": 12.68,
+      "promoter_latest": 32.81
+    },
+    {
+      "ticker": "PRSMJOHNSN",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+1.4%)"
+      ],
+      "fii_latest": 3.55,
+      "dii_latest": 6.04,
+      "promoter_latest": 74.87
+    },
+    {
+      "ticker": "RADICO",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.63%)",
+        "DII rising (+3.59%)"
+      ],
+      "fii_latest": 17.63,
+      "dii_latest": 27.35,
+      "promoter_latest": 40.2
+    },
+    {
+      "ticker": "RELAXO",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+1.4%)"
+      ],
+      "fii_latest": 3.04,
+      "dii_latest": 9.74,
+      "promoter_latest": 71.27
+    },
+    {
+      "ticker": "REPCOHOME",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+4.72%)"
+      ],
+      "fii_latest": 13.37,
+      "dii_latest": 24.27,
+      "promoter_latest": 37.13
+    },
+    {
+      "ticker": "RPOWER",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+6.78%)"
+      ],
+      "fii_latest": 14.12,
+      "dii_latest": 3.12,
+      "promoter_latest": 24.98
+    },
+    {
+      "ticker": "SUDARSCHEM",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+4.47%)",
+        "DII rising (+10.6%)",
+        "Promoter falling (-27.62%)"
+      ],
+      "fii_latest": 7.96,
+      "dii_latest": 24.89,
+      "promoter_latest": 8.2
+    },
+    {
+      "ticker": "SUZLON",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+16.06%)",
+        "DII rising (+3.28%)",
+        "Promoter falling (-2.77%)"
+      ],
+      "fii_latest": 23.85,
+      "dii_latest": 9.18,
+      "promoter_latest": 11.73
+    },
+    {
+      "ticker": "TATACOFFEE",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+4.53%)",
+        "DII falling (-0.88%)"
+      ],
+      "fii_latest": 4.58,
+      "dii_latest": 5.33,
+      "promoter_latest": 57.48
+    },
+    {
+      "ticker": "TATAINVEST",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+1.46%)"
+      ],
+      "fii_latest": 2.62,
+      "dii_latest": 0.54,
+      "promoter_latest": 73.38
+    },
+    {
+      "ticker": "TIMETECHNO",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+4.0%)",
+        "DII rising (+11.16%)",
+        "Promoter falling (-4.12%)"
+      ],
+      "fii_latest": 10.88,
+      "dii_latest": 17.37,
+      "promoter_latest": 47.57
+    },
+    {
+      "ticker": "TORNTPOWER",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+2.36%)",
+        "DII rising (+1.14%)",
+        "Promoter falling (-2.47%)"
+      ],
+      "fii_latest": 8.4,
+      "dii_latest": 22.82,
+      "promoter_latest": 51.09
+    },
+    {
+      "ticker": "UFLEX",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.06%)"
+      ],
+      "fii_latest": 9.2,
+      "dii_latest": 0.52,
+      "promoter_latest": 44.58
+    },
+    {
+      "ticker": "UNIONBANK",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+7.91%)",
+        "DII rising (+3.63%)",
+        "Promoter falling (-8.73%)"
+      ],
+      "fii_latest": 9.37,
+      "dii_latest": 11.51,
+      "promoter_latest": 74.76
+    },
+    {
+      "ticker": "VEDL",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+6.45%)",
+        "DII rising (+3.45%)",
+        "Promoter falling (-11.73%)"
+      ],
+      "fii_latest": 13.93,
+      "dii_latest": 13.43,
+      "promoter_latest": 56.38
+    },
+    {
+      "ticker": "VINATIORGA",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.75%)",
+        "DII rising (+1.8%)"
+      ],
+      "fii_latest": 3.72,
+      "dii_latest": 9.91,
+      "promoter_latest": 74.29
+    },
+    {
+      "ticker": "VOLTAS",
+      "flow_score": 65.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.64%)",
+        "DII rising (+4.65%)"
+      ],
+      "fii_latest": 18.44,
+      "dii_latest": 38.28,
+      "promoter_latest": 30.3
+    },
+    {
+      "ticker": "WABAG",
+      "flow_score": 65.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+2.23%)"
+      ],
+      "fii_latest": 16.6,
+      "dii_latest": 5.77,
+      "promoter_latest": 19.09
+    },
+    {
+      "ticker": "WHIRLPOOL",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+8.15%)",
+        "DII rising (+23.38%)",
+        "Promoter falling (-35.24%)"
+      ],
+      "fii_latest": 11.46,
+      "dii_latest": 35.85,
+      "promoter_latest": 39.76
+    },
+    {
+      "ticker": "WOCKPHARMA",
+      "flow_score": 65.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+4.49%)",
+        "DII rising (+10.78%)",
+        "Promoter falling (-9.31%)"
+      ],
+      "fii_latest": 7.09,
+      "dii_latest": 10.96,
+      "promoter_latest": 49.09
+    },
+    {
+      "ticker": "DCBBANK",
+      "flow_score": 63.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.34%)",
+        "DII falling (-6.9%)",
+        "Promoter rising (+1.41%)"
+      ],
+      "fii_latest": 12.64,
+      "dii_latest": 32.8,
+      "promoter_latest": 16.23
+    },
+    {
+      "ticker": "HINDALCO",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+3.71%)",
+        "DII falling (-4.73%)"
+      ],
+      "fii_latest": 29.96,
+      "dii_latest": 21.35,
+      "promoter_latest": 34.65
+    },
+    {
+      "ticker": "DIVISLAB",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+5.6%)",
+        "DII falling (-2.02%)"
+      ],
+      "fii_latest": 20.29,
+      "dii_latest": 19.13,
+      "promoter_latest": 51.88
+    },
+    {
+      "ticker": "BPCL",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+7.02%)",
+        "DII falling (-4.58%)"
+      ],
+      "fii_latest": 19.57,
+      "dii_latest": 18.52,
+      "promoter_latest": 52.98
+    },
+    {
+      "ticker": "HEROMOTOCO",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+3.05%)",
+        "DII falling (-2.59%)"
+      ],
+      "fii_latest": 31.15,
+      "dii_latest": 24.69,
+      "promoter_latest": 34.73
+    },
+    {
+      "ticker": "BEL",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.16%)",
+        "DII falling (-4.84%)"
+      ],
+      "fii_latest": 19.51,
+      "dii_latest": 20.0,
+      "promoter_latest": 51.14
+    },
+    {
+      "ticker": "CANBK",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+5.33%)",
+        "DII falling (-5.02%)"
+      ],
+      "fii_latest": 14.24,
+      "dii_latest": 10.91,
+      "promoter_latest": 62.93
+    },
+    {
+      "ticker": "ASHOKA",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+3.5%)",
+        "DII falling (-4.25%)"
+      ],
+      "fii_latest": 5.9,
+      "dii_latest": 14.39,
+      "promoter_latest": 54.47
+    },
+    {
+      "ticker": "ASHOKLEY",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+7.98%)",
+        "DII falling (-7.73%)"
+      ],
+      "fii_latest": 24.57,
+      "dii_latest": 13.06,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "BOSCHLTD",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+3.34%)",
+        "DII falling (-1.65%)"
+      ],
+      "fii_latest": 7.22,
+      "dii_latest": 15.05,
+      "promoter_latest": 70.54
+    },
+    {
+      "ticker": "CANFINHOME",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.65%)",
+        "DII falling (-3.36%)"
+      ],
+      "fii_latest": 13.37,
+      "dii_latest": 24.61,
+      "promoter_latest": 29.99
+    },
+    {
+      "ticker": "CUMMINSIND",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+6.4%)",
+        "DII falling (-4.33%)"
+      ],
+      "fii_latest": 20.77,
+      "dii_latest": 19.43,
+      "promoter_latest": 51.0
+    },
+    {
+      "ticker": "DBCORP",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.46%)",
+        "Promoter rising (+2.53%)"
+      ],
+      "fii_latest": 12.05,
+      "dii_latest": 4.18,
+      "promoter_latest": 74.5
+    },
+    {
+      "ticker": "ENDURANCE",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+5.8%)",
+        "DII falling (-6.14%)"
+      ],
+      "fii_latest": 13.14,
+      "dii_latest": 9.77,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "ENGINERSIN",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+1.96%)",
+        "DII falling (-6.27%)"
+      ],
+      "fii_latest": 9.66,
+      "dii_latest": 12.19,
+      "promoter_latest": 51.32
+    },
+    {
+      "ticker": "GESHIP",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.26%)",
+        "DII falling (-1.41%)"
+      ],
+      "fii_latest": 28.44,
+      "dii_latest": 15.25,
+      "promoter_latest": 30.08
+    },
+    {
+      "ticker": "GILLETTE",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+3.7%)",
+        "DII falling (-2.04%)"
+      ],
+      "fii_latest": 4.36,
+      "dii_latest": 9.25,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "GLAXO",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.21%)",
+        "DII falling (-2.57%)"
+      ],
+      "fii_latest": 4.62,
+      "dii_latest": 7.68,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "GPPL",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+1.12%)",
+        "DII falling (-7.7%)"
+      ],
+      "fii_latest": 22.14,
+      "dii_latest": 14.96,
+      "promoter_latest": 44.01
+    },
+    {
+      "ticker": "HDFCAMC",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+11.46%)",
+        "DII falling (-7.9%)"
+      ],
+      "fii_latest": 24.45,
+      "dii_latest": 14.42,
+      "promoter_latest": 52.37
+    },
+    {
+      "ticker": "HINDCOPPER",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+4.54%)",
+        "DII falling (-10.5%)"
+      ],
+      "fii_latest": 6.34,
+      "dii_latest": 5.39,
+      "promoter_latest": 66.14
+    },
+    {
+      "ticker": "HINDPETRO",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+3.27%)",
+        "DII falling (-2.75%)"
+      ],
+      "fii_latest": 17.26,
+      "dii_latest": 19.58,
+      "promoter_latest": 54.9
+    },
+    {
+      "ticker": "INDHOTEL",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+1.59%)",
+        "DII falling (-1.47%)"
+      ],
+      "fii_latest": 23.23,
+      "dii_latest": 22.58,
+      "promoter_latest": 38.12
+    },
+    {
+      "ticker": "IOC",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.28%)",
+        "DII falling (-2.45%)"
+      ],
+      "fii_latest": 9.84,
+      "dii_latest": 9.1,
+      "promoter_latest": 51.5
+    },
+    {
+      "ticker": "JAMNAAUTO",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+5.96%)",
+        "DII falling (-9.78%)"
+      ],
+      "fii_latest": 9.25,
+      "dii_latest": 4.83,
+      "promoter_latest": 49.85
+    },
+    {
+      "ticker": "KIRLOSENG",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+4.62%)",
+        "DII falling (-1.88%)"
+      ],
+      "fii_latest": 10.79,
+      "dii_latest": 26.69,
+      "promoter_latest": 41.08
+    },
+    {
+      "ticker": "LICHSGFIN",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+4.24%)",
+        "DII falling (-4.14%)"
+      ],
+      "fii_latest": 21.39,
+      "dii_latest": 20.89,
+      "promoter_latest": 45.24
+    },
+    {
+      "ticker": "LUPIN",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+7.77%)",
+        "DII falling (-3.76%)"
+      ],
+      "fii_latest": 21.7,
+      "dii_latest": 25.32,
+      "promoter_latest": 46.85
+    },
+    {
+      "ticker": "MAHSCOOTER",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.27%)",
+        "DII falling (-1.2%)"
+      ],
+      "fii_latest": 6.33,
+      "dii_latest": 3.69,
+      "promoter_latest": 51.0
+    },
+    {
+      "ticker": "MAXINDIA",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+18.11%)",
+        "DII falling (-22.23%)"
+      ],
+      "fii_latest": 37.58,
+      "dii_latest": 4.57,
+      "promoter_latest": 40.89
+    },
+    {
+      "ticker": "MUTHOOTFIN",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+3.61%)",
+        "DII falling (-3.3%)"
+      ],
+      "fii_latest": 12.31,
+      "dii_latest": 10.43,
+      "promoter_latest": 73.35
+    },
+    {
+      "ticker": "NATCOPHARM",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+6.34%)",
+        "DII falling (-9.69%)",
+        "Promoter falling (-0.35%)"
+      ],
+      "fii_latest": 17.37,
+      "dii_latest": 5.46,
+      "promoter_latest": 49.41
+    },
+    {
+      "ticker": "NATIONALUM",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+7.32%)",
+        "DII falling (-4.63%)"
+      ],
+      "fii_latest": 22.27,
+      "dii_latest": 10.75,
+      "promoter_latest": 51.28
+    },
+    {
+      "ticker": "NMDC",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+6.61%)",
+        "DII falling (-4.24%)"
+      ],
+      "fii_latest": 13.6,
+      "dii_latest": 13.76,
+      "promoter_latest": 60.79
+    },
+    {
+      "ticker": "PFC",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.15%)",
+        "DII falling (-3.05%)"
+      ],
+      "fii_latest": 19.64,
+      "dii_latest": 15.05,
+      "promoter_latest": 55.99
+    },
+    {
+      "ticker": "PHOENIXLTD",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+4.41%)",
+        "DII falling (-3.79%)"
+      ],
+      "fii_latest": 32.97,
+      "dii_latest": 16.14,
+      "promoter_latest": 47.25
+    },
+    {
+      "ticker": "SCI",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+6.09%)",
+        "DII falling (-4.52%)"
+      ],
+      "fii_latest": 8.98,
+      "dii_latest": 2.49,
+      "promoter_latest": 63.75
+    },
+    {
+      "ticker": "SHARDACROP",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+2.6%)",
+        "DII falling (-3.05%)"
+      ],
+      "fii_latest": 4.6,
+      "dii_latest": 9.7,
+      "promoter_latest": 74.82
+    },
+    {
+      "ticker": "SHRIRAMCIT",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.49%)",
+        "Promoter rising (+2.94%)"
+      ],
+      "fii_latest": 26.95,
+      "dii_latest": 6.06,
+      "promoter_latest": 36.86
+    },
+    {
+      "ticker": "STAR",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+11.96%)",
+        "DII falling (-5.16%)"
+      ],
+      "fii_latest": 28.68,
+      "dii_latest": 14.44,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "TATAMTRDVR",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+14.15%)",
+        "DII falling (-7.75%)"
+      ],
+      "fii_latest": 33.67,
+      "dii_latest": 18.17,
+      "promoter_latest": 7.67
+    },
+    {
+      "ticker": "THOMASCOOK",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+7.09%)",
+        "DII falling (-2.48%)"
+      ],
+      "fii_latest": 7.56,
+      "dii_latest": 6.54,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "TNPL",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+1.2%)",
+        "DII falling (-2.1%)"
+      ],
+      "fii_latest": 4.96,
+      "dii_latest": 10.54,
+      "promoter_latest": 35.32
+    },
+    {
+      "ticker": "TVSMOTOR",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+4.43%)",
+        "DII falling (-4.57%)"
+      ],
+      "fii_latest": 22.56,
+      "dii_latest": 18.84,
+      "promoter_latest": 50.27
+    },
+    {
+      "ticker": "UJJIVAN",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+12.4%)",
+        "DII falling (-10.83%)"
+      ],
+      "fii_latest": 35.34,
+      "dii_latest": 7.36,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "VTL",
+      "flow_score": 60.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.96%)",
+        "DII falling (-0.94%)",
+        "Promoter rising (+1.02%)"
+      ],
+      "fii_latest": 5.69,
+      "dii_latest": 16.01,
+      "promoter_latest": 65.09
+    },
+    {
+      "ticker": "BHARTIARTL",
+      "flow_score": 58.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+6.31%)",
+        "DII rising (+0.98%)",
+        "Promoter falling (-6.1%)"
+      ],
+      "fii_latest": 27.79,
+      "dii_latest": 20.53,
+      "promoter_latest": 48.87
+    },
+    {
+      "ticker": "COALINDIA",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.92%)",
+        "DII rising (+0.46%)"
+      ],
+      "fii_latest": 8.38,
+      "dii_latest": 22.76,
+      "promoter_latest": 63.13
+    },
+    {
+      "ticker": "PIDILITIND",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.41%)",
+        "DII rising (+1.64%)",
+        "Promoter falling (-0.59%)"
+      ],
+      "fii_latest": 11.75,
+      "dii_latest": 9.56,
+      "promoter_latest": 69.32
+    },
+    {
+      "ticker": "SIEMENS",
+      "flow_score": 58.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.78%)",
+        "DII rising (+0.58%)"
+      ],
+      "fii_latest": 6.8,
+      "dii_latest": 8.59,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "BALMLAWRIE",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-0.66%)"
+      ],
+      "fii_latest": 2.22,
+      "dii_latest": 1.79,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "BIRLACORPN",
+      "flow_score": 58.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.92%)",
+        "DII rising (+0.93%)"
+      ],
+      "fii_latest": 6.26,
+      "dii_latest": 16.72,
+      "promoter_latest": 62.9
+    },
+    {
+      "ticker": "CENTRALBK",
+      "flow_score": 58.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+0.68%)",
+        "DII rising (+7.98%)",
+        "Promoter falling (-11.89%)"
+      ],
+      "fii_latest": 0.84,
+      "dii_latest": 10.82,
+      "promoter_latest": 81.19
+    },
+    {
+      "ticker": "CREDITACC",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+3.39%)",
+        "DII rising (+0.69%)",
+        "Promoter falling (-0.53%)"
+      ],
+      "fii_latest": 12.94,
+      "dii_latest": 12.59,
+      "promoter_latest": 66.24
+    },
+    {
+      "ticker": "FINEORG",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.62%)",
+        "DII falling (-0.59%)"
+      ],
+      "fii_latest": 4.4,
+      "dii_latest": 11.65,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "FINPIPE",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+0.91%)"
+      ],
+      "fii_latest": 5.86,
+      "dii_latest": 12.78,
+      "promoter_latest": 52.47
+    },
+    {
+      "ticker": "GMDCLTD",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.68%)",
+        "DII falling (-0.57%)"
+      ],
+      "fii_latest": 3.76,
+      "dii_latest": 0.94,
+      "promoter_latest": 74.0
+    },
+    {
+      "ticker": "IDBI",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [],
+      "fii_latest": 0.56,
+      "dii_latest": 0.08,
+      "promoter_latest": 94.72
+    },
+    {
+      "ticker": "INDOCO",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.64%)"
+      ],
+      "fii_latest": 0.94,
+      "dii_latest": 18.15,
+      "promoter_latest": 58.86
+    },
+    {
+      "ticker": "INDOSTAR",
+      "flow_score": 58.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.3%)",
+        "DII rising (+0.43%)",
+        "Promoter falling (-4.62%)"
+      ],
+      "fii_latest": 2.59,
+      "dii_latest": 2.17,
+      "promoter_latest": 70.38
+    },
+    {
+      "ticker": "IOB",
+      "flow_score": 58.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+0.34%)",
+        "DII rising (+2.95%)",
+        "Promoter falling (-3.94%)"
+      ],
+      "fii_latest": 0.43,
+      "dii_latest": 4.28,
+      "promoter_latest": 92.44
+    },
+    {
+      "ticker": "IPCALAB",
+      "flow_score": 58.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+0.58%)",
+        "DII rising (+2.27%)",
+        "Promoter falling (-1.57%)"
+      ],
+      "fii_latest": 10.63,
+      "dii_latest": 37.13,
+      "promoter_latest": 44.72
+    },
+    {
+      "ticker": "KOLTEPATIL",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+8.42%)",
+        "DII rising (+0.87%)",
+        "Promoter falling (-0.64%)"
+      ],
+      "fii_latest": 9.96,
+      "dii_latest": 3.38,
+      "promoter_latest": 73.81
+    },
+    {
+      "ticker": "MRF",
+      "flow_score": 58.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.79%)",
+        "DII rising (+0.54%)"
+      ],
+      "fii_latest": 17.98,
+      "dii_latest": 12.25,
+      "promoter_latest": 27.77
+    },
+    {
+      "ticker": "NIACL",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.35%)",
+        "DII falling (-0.76%)"
+      ],
+      "fii_latest": 1.01,
+      "dii_latest": 11.17,
+      "promoter_latest": 85.44
+    },
+    {
+      "ticker": "PGHH",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+0.47%)"
+      ],
+      "fii_latest": 0.97,
+      "dii_latest": 15.96,
+      "promoter_latest": 70.64
+    },
+    {
+      "ticker": "RCF",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.33%)"
+      ],
+      "fii_latest": 2.6,
+      "dii_latest": 0.39,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "RENUKA",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.59%)"
+      ],
+      "fii_latest": 3.52,
+      "dii_latest": 10.09,
+      "promoter_latest": 62.48
+    },
+    {
+      "ticker": "RKFORGE",
+      "flow_score": 58.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+5.41%)",
+        "Promoter falling (-2.94%)"
+      ],
+      "fii_latest": 21.75,
+      "dii_latest": 4.45,
+      "promoter_latest": 43.33
+    },
+    {
+      "ticker": "SHILPAMED",
+      "flow_score": 58.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+0.81%)",
+        "DII rising (+8.21%)",
+        "Promoter falling (-9.88%)"
+      ],
+      "fii_latest": 11.07,
+      "dii_latest": 8.58,
+      "promoter_latest": 40.13
+    },
+    {
+      "ticker": "TIMKEN",
+      "flow_score": 58.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+0.4%)",
+        "DII rising (+11.52%)",
+        "Promoter falling (-6.65%)"
+      ],
+      "fii_latest": 6.96,
+      "dii_latest": 30.63,
+      "promoter_latest": 51.05
+    },
+    {
+      "ticker": "TORNTPHARM",
+      "flow_score": 58.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+3.33%)",
+        "DII rising (+0.74%)",
+        "Promoter falling (-2.94%)"
+      ],
+      "fii_latest": 16.18,
+      "dii_latest": 8.96,
+      "promoter_latest": 68.31
+    },
+    {
+      "ticker": "TRIDENT",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.6%)",
+        "Promoter rising (+0.49%)"
+      ],
+      "fii_latest": 3.07,
+      "dii_latest": 0.22,
+      "promoter_latest": 73.68
+    },
+    {
+      "ticker": "TTKPRESTIG",
+      "flow_score": 58.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII rising (+0.82%)"
+      ],
+      "fii_latest": 7.84,
+      "dii_latest": 14.48,
+      "promoter_latest": 70.52
+    },
+    {
+      "ticker": "RELIANCE",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.88%)",
+        "DII rising (+4.33%)",
+        "Promoter falling (-0.39%)"
+      ],
+      "fii_latest": 18.67,
+      "dii_latest": 20.46,
+      "promoter_latest": 50.0
+    },
+    {
+      "ticker": "LT",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-6.51%)",
+        "DII rising (+5.31%)"
+      ],
+      "fii_latest": 18.78,
+      "dii_latest": 43.32,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "ITC",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-8.79%)",
+        "DII rising (+7.23%)"
+      ],
+      "fii_latest": 34.83,
+      "dii_latest": 49.15,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "KOTAKBANK",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-15.14%)",
+        "DII rising (+16.62%)"
+      ],
+      "fii_latest": 26.4,
+      "dii_latest": 36.19,
+      "promoter_latest": 25.87
+    },
+    {
+      "ticker": "AXISBANK",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-9.96%)",
+        "DII rising (+13.44%)"
+      ],
+      "fii_latest": 42.04,
+      "dii_latest": 43.35,
+      "promoter_latest": 8.14
+    },
+    {
+      "ticker": "HINDUNILVR",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.38%)",
+        "DII rising (+4.86%)"
+      ],
+      "fii_latest": 10.1,
+      "dii_latest": 16.33,
+      "promoter_latest": 61.9
+    },
+    {
+      "ticker": "TITAN",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.88%)",
+        "DII rising (+4.38%)"
+      ],
+      "fii_latest": 15.65,
+      "dii_latest": 14.84,
+      "promoter_latest": 52.9
+    },
+    {
+      "ticker": "ASIANPAINT",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-5.37%)",
+        "DII rising (+11.73%)"
+      ],
+      "fii_latest": 12.11,
+      "dii_latest": 21.74,
+      "promoter_latest": 52.63
+    },
+    {
+      "ticker": "NESTLEIND",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.64%)",
+        "DII rising (+3.35%)"
+      ],
+      "fii_latest": 9.74,
+      "dii_latest": 12.4,
+      "promoter_latest": 62.76
+    },
+    {
+      "ticker": "HCLTECH",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.47%)",
+        "DII rising (+3.62%)"
+      ],
+      "fii_latest": 15.51,
+      "dii_latest": 18.95,
+      "promoter_latest": 60.86
+    },
+    {
+      "ticker": "POWERGRID",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-8.12%)",
+        "DII rising (+7.5%)"
+      ],
+      "fii_latest": 25.02,
+      "dii_latest": 20.05,
+      "promoter_latest": 51.34
+    },
+    {
+      "ticker": "TECHM",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-7.1%)",
+        "DII rising (+10.48%)"
+      ],
+      "fii_latest": 18.59,
+      "dii_latest": 37.34,
+      "promoter_latest": 34.97
+    },
+    {
+      "ticker": "DRREDDY",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-5.85%)",
+        "DII rising (+8.73%)"
+      ],
+      "fii_latest": 21.14,
+      "dii_latest": 30.72,
+      "promoter_latest": 26.63
+    },
+    {
+      "ticker": "EICHERMOT",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.51%)",
+        "DII rising (+4.7%)"
+      ],
+      "fii_latest": 26.77,
+      "dii_latest": 14.73,
+      "promoter_latest": 49.06
+    },
+    {
+      "ticker": "BAJAJ-AUTO",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.85%)",
+        "DII rising (+4.79%)"
+      ],
+      "fii_latest": 8.82,
+      "dii_latest": 14.35,
+      "promoter_latest": 55.01
+    },
+    {
+      "ticker": "BRITANNIA",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-5.66%)",
+        "DII rising (+6.36%)"
+      ],
+      "fii_latest": 15.63,
+      "dii_latest": 18.82,
+      "promoter_latest": 50.55
+    },
+    {
+      "ticker": "DABUR",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-9.41%)",
+        "DII rising (+9.71%)"
+      ],
+      "fii_latest": 9.98,
+      "dii_latest": 18.46,
+      "promoter_latest": 66.25
+    },
+    {
+      "ticker": "PAYTM",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-22.71%)",
+        "DII rising (+19.54%)"
+      ],
+      "fii_latest": 49.4,
+      "dii_latest": 23.08,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "TRENT",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-9.42%)",
+        "DII rising (+6.38%)"
+      ],
+      "fii_latest": 15.59,
+      "dii_latest": 22.19,
+      "promoter_latest": 37.01
+    },
+    {
+      "ticker": "ABB",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.27%)",
+        "DII rising (+1.21%)"
+      ],
+      "fii_latest": 8.19,
+      "dii_latest": 9.28,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "BANKBARODA",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.6%)",
+        "DII rising (+3.15%)"
+      ],
+      "fii_latest": 9.69,
+      "dii_latest": 18.92,
+      "promoter_latest": 63.97
+    },
+    {
+      "ticker": "INDUSINDBK",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-13.77%)",
+        "DII rising (+13.91%)"
+      ],
+      "fii_latest": 28.57,
+      "dii_latest": 40.13,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "ACC",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.05%)",
+        "DII rising (+2.27%)"
+      ],
+      "fii_latest": 5.93,
+      "dii_latest": 21.62,
+      "promoter_latest": 56.69
+    },
+    {
+      "ticker": "AIAENG",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.26%)",
+        "DII rising (+1.1%)"
+      ],
+      "fii_latest": 16.79,
+      "dii_latest": 22.03,
+      "promoter_latest": 58.5
+    },
+    {
+      "ticker": "AJANTPHARM",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.93%)",
+        "DII rising (+3.0%)"
+      ],
+      "fii_latest": 8.26,
+      "dii_latest": 18.36,
+      "promoter_latest": 66.25
+    },
+    {
+      "ticker": "APOLLOTYRE",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-11.26%)",
+        "DII rising (+10.34%)",
+        "Promoter falling (-0.41%)"
+      ],
+      "fii_latest": 12.15,
+      "dii_latest": 27.56,
+      "promoter_latest": 36.93
+    },
+    {
+      "ticker": "ASTERDM",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-21.64%)",
+        "DII rising (+18.95%)"
+      ],
+      "fii_latest": 17.18,
+      "dii_latest": 27.57,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "AUROPHARMA",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-8.88%)",
+        "DII rising (+10.09%)"
+      ],
+      "fii_latest": 15.24,
+      "dii_latest": 25.82,
+      "promoter_latest": 51.82
+    },
+    {
+      "ticker": "BAJAJELEC",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.42%)",
+        "DII rising (+4.92%)"
+      ],
+      "fii_latest": 6.5,
+      "dii_latest": 16.88,
+      "promoter_latest": 62.7
+    },
+    {
+      "ticker": "BAJAJHLDNG",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.77%)",
+        "DII rising (+3.04%)"
+      ],
+      "fii_latest": 9.62,
+      "dii_latest": 8.08,
+      "promoter_latest": 51.46
+    },
+    {
+      "ticker": "BALKRISIND",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.27%)",
+        "DII rising (+3.35%)"
+      ],
+      "fii_latest": 11.13,
+      "dii_latest": 24.25,
+      "promoter_latest": 58.3
+    },
+    {
+      "ticker": "BALRAMCHIN",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.24%)",
+        "DII rising (+6.35%)"
+      ],
+      "fii_latest": 10.43,
+      "dii_latest": 27.67,
+      "promoter_latest": 42.86
+    },
+    {
+      "ticker": "BERGEPAINT",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-6.15%)",
+        "DII rising (+7.96%)"
+      ],
+      "fii_latest": 4.68,
+      "dii_latest": 11.71,
+      "promoter_latest": 74.98
+    },
+    {
+      "ticker": "CEATLTD",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-9.65%)",
+        "DII rising (+8.7%)"
+      ],
+      "fii_latest": 16.55,
+      "dii_latest": 20.9,
+      "promoter_latest": 47.29
+    },
+    {
+      "ticker": "CERA",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-5.24%)",
+        "DII rising (+5.14%)"
+      ],
+      "fii_latest": 14.2,
+      "dii_latest": 14.18,
+      "promoter_latest": 54.41
+    },
+    {
+      "ticker": "COLPAL",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-8.2%)",
+        "DII rising (+7.73%)"
+      ],
+      "fii_latest": 13.6,
+      "dii_latest": 15.25,
+      "promoter_latest": 51.0
+    },
+    {
+      "ticker": "CONCOR",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-13.25%)",
+        "DII rising (+9.28%)"
+      ],
+      "fii_latest": 8.32,
+      "dii_latest": 29.77,
+      "promoter_latest": 54.8
+    },
+    {
+      "ticker": "CUB",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.96%)",
+        "DII rising (+7.61%)"
+      ],
+      "fii_latest": 23.37,
+      "dii_latest": 40.73,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "CYIENT",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-21.24%)",
+        "DII rising (+19.67%)"
+      ],
+      "fii_latest": 15.33,
+      "dii_latest": 40.98,
+      "promoter_latest": 23.28
+    },
+    {
+      "ticker": "DEEPAKFERT",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.13%)",
+        "DII rising (+11.17%)"
+      ],
+      "fii_latest": 10.31,
+      "dii_latest": 13.24,
+      "promoter_latest": 45.63
+    },
+    {
+      "ticker": "DEEPAKNTR",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.9%)",
+        "DII rising (+7.85%)"
+      ],
+      "fii_latest": 6.19,
+      "dii_latest": 23.46,
+      "promoter_latest": 49.33
+    },
+    {
+      "ticker": "ELGIEQUIP",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-7.13%)",
+        "DII rising (+4.21%)"
+      ],
+      "fii_latest": 22.2,
+      "dii_latest": 9.08,
+      "promoter_latest": 31.19
+    },
+    {
+      "ticker": "EQUITAS",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.09%)",
+        "DII rising (+2.22%)"
+      ],
+      "fii_latest": 24.58,
+      "dii_latest": 36.67,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "FORTIS",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.05%)",
+        "DII rising (+9.18%)"
+      ],
+      "fii_latest": 25.98,
+      "dii_latest": 31.35,
+      "promoter_latest": 31.17
+    },
+    {
+      "ticker": "FSL",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.14%)",
+        "DII rising (+10.32%)"
+      ],
+      "fii_latest": 8.85,
+      "dii_latest": 25.49,
+      "promoter_latest": 53.66
+    },
+    {
+      "ticker": "GAIL",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.05%)",
+        "DII rising (+2.44%)"
+      ],
+      "fii_latest": 13.04,
+      "dii_latest": 20.5,
+      "promoter_latest": 51.88
+    },
+    {
+      "ticker": "GLENMARK",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-5.16%)",
+        "DII rising (+10.18%)"
+      ],
+      "fii_latest": 20.35,
+      "dii_latest": 19.28,
+      "promoter_latest": 46.65
+    },
+    {
+      "ticker": "GNFC",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-7.62%)",
+        "DII rising (+6.96%)"
+      ],
+      "fii_latest": 12.05,
+      "dii_latest": 11.07,
+      "promoter_latest": 41.3
+    },
+    {
+      "ticker": "GODFRYPHLP",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.14%)",
+        "DII rising (+1.79%)"
+      ],
+      "fii_latest": 7.91,
+      "dii_latest": 3.28,
+      "promoter_latest": 72.58
+    },
+    {
+      "ticker": "GRINDWELL",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.78%)",
+        "DII rising (+3.8%)"
+      ],
+      "fii_latest": 5.56,
+      "dii_latest": 19.18,
+      "promoter_latest": 58.04
+    },
+    {
+      "ticker": "GSFC",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-8.19%)",
+        "DII rising (+4.73%)"
+      ],
+      "fii_latest": 12.35,
+      "dii_latest": 7.3,
+      "promoter_latest": 37.84
+    },
+    {
+      "ticker": "HAVELLS",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-6.86%)",
+        "DII rising (+7.82%)"
+      ],
+      "fii_latest": 16.93,
+      "dii_latest": 17.5,
+      "promoter_latest": 59.38
+    },
+    {
+      "ticker": "HDFC",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-6.41%)",
+        "DII rising (+5.72%)"
+      ],
+      "fii_latest": 63.59,
+      "dii_latest": 24.17,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "HDFCLIFE",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-8.37%)",
+        "DII rising (+11.09%)"
+      ],
+      "fii_latest": 22.52,
+      "dii_latest": 17.25,
+      "promoter_latest": 50.21
+    },
+    {
+      "ticker": "HEIDELBERG",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.58%)",
+        "DII rising (+5.17%)"
+      ],
+      "fii_latest": 1.15,
+      "dii_latest": 14.21,
+      "promoter_latest": 69.39
+    },
+    {
+      "ticker": "IDFC",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.45%)",
+        "DII rising (+8.38%)"
+      ],
+      "fii_latest": 20.82,
+      "dii_latest": 14.57,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "IEX",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.12%)",
+        "DII rising (+9.15%)"
+      ],
+      "fii_latest": 14.16,
+      "dii_latest": 30.26,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "IGL",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.86%)",
+        "DII rising (+3.08%)"
+      ],
+      "fii_latest": 17.08,
+      "dii_latest": 23.25,
+      "promoter_latest": 45.0
+    },
+    {
+      "ticker": "JINDALSAW",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.46%)",
+        "DII rising (+4.61%)"
+      ],
+      "fii_latest": 13.46,
+      "dii_latest": 5.79,
+      "promoter_latest": 63.25
+    },
+    {
+      "ticker": "KAJARIACER",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-7.72%)",
+        "DII rising (+2.25%)"
+      ],
+      "fii_latest": 10.23,
+      "dii_latest": 27.47,
+      "promoter_latest": 47.69
+    },
+    {
+      "ticker": "KTKBANK",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-9.25%)",
+        "DII rising (+10.16%)"
+      ],
+      "fii_latest": 11.78,
+      "dii_latest": 16.16,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "LTTS",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.45%)",
+        "DII rising (+4.27%)"
+      ],
+      "fii_latest": 3.86,
+      "dii_latest": 14.64,
+      "promoter_latest": 73.57
+    },
+    {
+      "ticker": "M&MFIN",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.52%)",
+        "DII rising (+5.14%)",
+        "Promoter rising (+0.33%)"
+      ],
+      "fii_latest": 9.4,
+      "dii_latest": 32.09,
+      "promoter_latest": 52.49
+    },
+    {
+      "ticker": "MGL",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-8.25%)",
+        "DII rising (+5.86%)"
+      ],
+      "fii_latest": 24.13,
+      "dii_latest": 21.01,
+      "promoter_latest": 32.5
+    },
+    {
+      "ticker": "OBEROIRLTY",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.75%)",
+        "DII rising (+3.25%)"
+      ],
+      "fii_latest": 15.42,
+      "dii_latest": 14.58,
+      "promoter_latest": 67.71
+    },
+    {
+      "ticker": "OIL",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.36%)",
+        "DII rising (+3.07%)"
+      ],
+      "fii_latest": 7.67,
+      "dii_latest": 19.43,
+      "promoter_latest": 56.66
+    },
+    {
+      "ticker": "ORIENTELEC",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.08%)",
+        "DII rising (+4.65%)"
+      ],
+      "fii_latest": 3.42,
+      "dii_latest": 32.52,
+      "promoter_latest": 38.3
+    },
+    {
+      "ticker": "PEL",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-16.82%)",
+        "DII rising (+7.34%)"
+      ],
+      "fii_latest": 15.23,
+      "dii_latest": 15.19,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "PETRONET",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-7.14%)",
+        "DII rising (+7.97%)"
+      ],
+      "fii_latest": 27.13,
+      "dii_latest": 12.94,
+      "promoter_latest": 50.0
+    },
+    {
+      "ticker": "PIIND",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.3%)",
+        "DII rising (+7.4%)"
+      ],
+      "fii_latest": 15.87,
+      "dii_latest": 31.2,
+      "promoter_latest": 46.09
+    },
+    {
+      "ticker": "PNBHOUSING",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-8.17%)",
+        "DII rising (+36.47%)"
+      ],
+      "fii_latest": 16.6,
+      "dii_latest": 44.07,
+      "promoter_latest": 28.04
+    },
+    {
+      "ticker": "QUESS",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-8.73%)",
+        "DII rising (+5.07%)"
+      ],
+      "fii_latest": 8.31,
+      "dii_latest": 12.4,
+      "promoter_latest": 56.83
+    },
+    {
+      "ticker": "RAIN",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-9.02%)",
+        "DII rising (+1.92%)"
+      ],
+      "fii_latest": 8.06,
+      "dii_latest": 2.15,
+      "promoter_latest": 41.35
+    },
+    {
+      "ticker": "RBLBANK",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-8.04%)",
+        "DII rising (+25.06%)"
+      ],
+      "fii_latest": 20.23,
+      "dii_latest": 42.97,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "RECLTD",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-6.11%)",
+        "DII rising (+4.34%)"
+      ],
+      "fii_latest": 15.79,
+      "dii_latest": 16.36,
+      "promoter_latest": 52.63
+    },
+    {
+      "ticker": "SANOFI",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.07%)",
+        "DII rising (+1.47%)"
+      ],
+      "fii_latest": 5.65,
+      "dii_latest": 21.12,
+      "promoter_latest": 60.4
+    },
+    {
+      "ticker": "SBILIFE",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.71%)",
+        "DII rising (+4.98%)"
+      ],
+      "fii_latest": 21.51,
+      "dii_latest": 19.13,
+      "promoter_latest": 55.33
+    },
+    {
+      "ticker": "SHREECEM",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.68%)",
+        "DII rising (+3.96%)"
+      ],
+      "fii_latest": 8.94,
+      "dii_latest": 15.79,
+      "promoter_latest": 62.56
+    },
+    {
+      "ticker": "SIS",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.69%)",
+        "DII rising (+2.66%)"
+      ],
+      "fii_latest": 12.56,
+      "dii_latest": 6.62,
+      "promoter_latest": 71.88
+    },
+    {
+      "ticker": "SONATSOFTW",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.85%)",
+        "DII rising (+11.24%)"
+      ],
+      "fii_latest": 8.74,
+      "dii_latest": 25.55,
+      "promoter_latest": 28.17
+    },
+    {
+      "ticker": "SRF",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.37%)",
+        "DII rising (+7.46%)"
+      ],
+      "fii_latest": 16.67,
+      "dii_latest": 21.17,
+      "promoter_latest": 50.26
+    },
+    {
+      "ticker": "SUNTV",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.75%)",
+        "DII rising (+7.24%)"
+      ],
+      "fii_latest": 6.64,
+      "dii_latest": 10.91,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "SUPREMEIND",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.94%)",
+        "DII rising (+2.02%)"
+      ],
+      "fii_latest": 17.12,
+      "dii_latest": 19.14,
+      "promoter_latest": 48.96
+    },
+    {
+      "ticker": "TATACHEM",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.57%)",
+        "DII rising (+2.92%)"
+      ],
+      "fii_latest": 11.9,
+      "dii_latest": 22.83,
+      "promoter_latest": 37.98
+    },
+    {
+      "ticker": "TATAELXSI",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.14%)",
+        "DII rising (+7.31%)"
+      ],
+      "fii_latest": 11.08,
+      "dii_latest": 11.39,
+      "promoter_latest": 43.9
+    },
+    {
+      "ticker": "TRITURBINE",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-5.98%)",
+        "DII rising (+3.96%)"
+      ],
+      "fii_latest": 20.81,
+      "dii_latest": 16.52,
+      "promoter_latest": 55.84
+    },
+    {
+      "ticker": "TV18BRDCST",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.79%)",
+        "DII rising (+1.47%)"
+      ],
+      "fii_latest": 7.38,
+      "dii_latest": 1.66,
+      "promoter_latest": 60.4
+    },
+    {
+      "ticker": "ZENSARTECH",
+      "flow_score": 57.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.08%)",
+        "DII rising (+6.36%)"
+      ],
+      "fii_latest": 10.51,
+      "dii_latest": 23.66,
+      "promoter_latest": 49.01
+    },
+    {
+      "ticker": "ZYDUSWELL",
+      "flow_score": 55.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-3.17%)",
+        "Promoter rising (+2.53%)"
+      ],
+      "fii_latest": 3.17,
+      "dii_latest": 18.87,
+      "promoter_latest": 69.64
+    },
+    {
+      "ticker": "NTPC",
+      "flow_score": 53.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.74%)",
+        "DII falling (-1.07%)"
+      ],
+      "fii_latest": 16.54,
+      "dii_latest": 29.13,
+      "promoter_latest": 51.1
+    },
+    {
+      "ticker": "FDC",
+      "flow_score": 53.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.34%)",
+        "DII falling (-2.84%)"
+      ],
+      "fii_latest": 2.4,
+      "dii_latest": 6.29,
+      "promoter_latest": 69.65
+    },
+    {
+      "ticker": "GSKCONS",
+      "flow_score": 53.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-1.83%)"
+      ],
+      "fii_latest": 4.58,
+      "dii_latest": 6.56,
+      "promoter_latest": 72.46
+    },
+    {
+      "ticker": "HONAUT",
+      "flow_score": 53.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.8%)",
+        "DII falling (-1.16%)"
+      ],
+      "fii_latest": 3.74,
+      "dii_latest": 11.28,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "NFL",
+      "flow_score": 53.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.31%)",
+        "DII falling (-6.36%)"
+      ],
+      "fii_latest": 0.7,
+      "dii_latest": 5.53,
+      "promoter_latest": 74.71
+    },
+    {
+      "ticker": "SKFINDIA",
+      "flow_score": 53.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.68%)",
+        "DII falling (-2.37%)"
+      ],
+      "fii_latest": 7.1,
+      "dii_latest": 27.0,
+      "promoter_latest": 52.58
+    },
+    {
+      "ticker": "SOLARINDS",
+      "flow_score": 53.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII rising (+0.8%)",
+        "DII falling (-2.12%)"
+      ],
+      "fii_latest": 6.59,
+      "dii_latest": 12.89,
+      "promoter_latest": 73.15
+    },
+    {
+      "ticker": "GHCL",
+      "flow_score": 52.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-1.38%)",
+        "Promoter rising (+0.81%)"
+      ],
+      "fii_latest": 24.66,
+      "dii_latest": 10.57,
+      "promoter_latest": 19.87
+    },
+    {
+      "ticker": "ONGC",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-0.54%)"
+      ],
+      "fii_latest": 7.97,
+      "dii_latest": 19.3,
+      "promoter_latest": 58.89
+    },
+    {
+      "ticker": "BAJAJFINSV",
+      "flow_score": 50.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "DII rising (+4.46%)",
+        "Promoter falling (-2.07%)"
+      ],
+      "fii_latest": 7.23,
+      "dii_latest": 11.76,
+      "promoter_latest": 58.72
+    },
+    {
+      "ticker": "3MINDIA",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [],
+      "fii_latest": 3.52,
+      "dii_latest": 8.34,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "ATUL",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [],
+      "fii_latest": 7.5,
+      "dii_latest": 25.89,
+      "promoter_latest": 45.22
+    },
+    {
+      "ticker": "BEML",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.49%)",
+        "DII falling (-0.8%)"
+      ],
+      "fii_latest": 5.59,
+      "dii_latest": 18.71,
+      "promoter_latest": 54.03
+    },
+    {
+      "ticker": "BHEL",
+      "flow_score": 50.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.54%)",
+        "DII rising (+7.57%)",
+        "Promoter falling (-5.0%)"
+      ],
+      "fii_latest": 7.23,
+      "dii_latest": 23.93,
+      "promoter_latest": 58.17
+    },
+    {
+      "ticker": "BOMDYEING",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.35%)",
+        "DII falling (-0.73%)"
+      ],
+      "fii_latest": 1.04,
+      "dii_latest": 0.99,
+      "promoter_latest": 53.56
+    },
+    {
+      "ticker": "BRIGADE",
+      "flow_score": 50.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+3.08%)",
+        "DII falling (-0.71%)",
+        "Promoter falling (-2.67%)"
+      ],
+      "fii_latest": 16.75,
+      "dii_latest": 24.74,
+      "promoter_latest": 41.11
+    },
+    {
+      "ticker": "CHOLAFIN",
+      "flow_score": 50.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+3.95%)",
+        "DII falling (-0.46%)",
+        "Promoter falling (-2.21%)"
+      ],
+      "fii_latest": 24.87,
+      "dii_latest": 19.91,
+      "promoter_latest": 49.25
+    },
+    {
+      "ticker": "CRISIL",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-0.57%)"
+      ],
+      "fii_latest": 7.18,
+      "dii_latest": 12.61,
+      "promoter_latest": 66.64
+    },
+    {
+      "ticker": "EMAMILTD",
+      "flow_score": 50.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.89%)",
+        "DII rising (+0.69%)",
+        "Promoter rising (+0.32%)"
+      ],
+      "fii_latest": 8.57,
+      "dii_latest": 26.91,
+      "promoter_latest": 54.84
+    },
+    {
+      "ticker": "FINCABLES",
+      "flow_score": 50.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.63%)",
+        "DII rising (+0.88%)"
+      ],
+      "fii_latest": 9.62,
+      "dii_latest": 16.44,
+      "promoter_latest": 35.86
+    },
+    {
+      "ticker": "HFCL",
+      "flow_score": 50.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-0.45%)",
+        "DII rising (+5.62%)",
+        "Promoter falling (-10.95%)"
+      ],
+      "fii_latest": 7.08,
+      "dii_latest": 8.57,
+      "promoter_latest": 28.29
+    },
+    {
+      "ticker": "ITDC",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [],
+      "fii_latest": 0.02,
+      "dii_latest": 1.78,
+      "promoter_latest": 87.03
+    },
+    {
+      "ticker": "ITI",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [],
+      "fii_latest": 0.0,
+      "dii_latest": 0.06,
+      "promoter_latest": 90.02
+    },
+    {
+      "ticker": "JAICORPLTD",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [],
+      "fii_latest": 0.8,
+      "dii_latest": 1.57,
+      "promoter_latest": 73.91
+    },
+    {
+      "ticker": "JETAIRWAYS",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [],
+      "fii_latest": 0.01,
+      "dii_latest": 28.15,
+      "promoter_latest": 24.99
+    },
+    {
+      "ticker": "JPASSOCIAT",
+      "flow_score": 50.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "DII rising (+7.29%)",
+        "Promoter falling (-8.97%)"
+      ],
+      "fii_latest": 0.28,
+      "dii_latest": 8.57,
+      "promoter_latest": 28.77
+    },
+    {
+      "ticker": "JUSTDIAL",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.51%)"
+      ],
+      "fii_latest": 4.82,
+      "dii_latest": 9.31,
+      "promoter_latest": 74.15
+    },
+    {
+      "ticker": "KANSAINER",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.61%)",
+        "DII falling (-0.39%)"
+      ],
+      "fii_latest": 3.6,
+      "dii_latest": 11.9,
+      "promoter_latest": 74.96
+    },
+    {
+      "ticker": "KEI",
+      "flow_score": 50.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-0.4%)",
+        "DII rising (+6.28%)",
+        "Promoter falling (-2.1%)"
+      ],
+      "fii_latest": 27.27,
+      "dii_latest": 25.83,
+      "promoter_latest": 35.0
+    },
+    {
+      "ticker": "KIOCL",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [],
+      "fii_latest": 0.05,
+      "dii_latest": 0.03,
+      "promoter_latest": 99.03
+    },
+    {
+      "ticker": "LINDEINDIA",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.8%)",
+        "DII falling (-0.88%)"
+      ],
+      "fii_latest": 2.05,
+      "dii_latest": 6.88,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "MMTC",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-0.79%)"
+      ],
+      "fii_latest": 0.13,
+      "dii_latest": 1.77,
+      "promoter_latest": 89.93
+    },
+    {
+      "ticker": "PTC",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.82%)",
+        "DII falling (-0.79%)"
+      ],
+      "fii_latest": 27.46,
+      "dii_latest": 7.52,
+      "promoter_latest": 16.22
+    },
+    {
+      "ticker": "REDINGTON",
+      "flow_score": 50.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+2.27%)",
+        "Promoter falling (-8.2%)"
+      ],
+      "fii_latest": 61.49,
+      "dii_latest": 17.12,
+      "promoter_latest": 0.0
+    },
+    {
+      "ticker": "RUPA",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-0.35%)"
+      ],
+      "fii_latest": 0.31,
+      "dii_latest": 3.78,
+      "promoter_latest": 73.28
+    },
+    {
+      "ticker": "SJVN",
+      "flow_score": 50.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.35%)",
+        "DII falling (-0.58%)",
+        "Promoter falling (-4.92%)"
+      ],
+      "fii_latest": 2.75,
+      "dii_latest": 3.74,
+      "promoter_latest": 81.85
+    },
+    {
+      "ticker": "SPARC",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-1.6%)"
+      ],
+      "fii_latest": 2.04,
+      "dii_latest": 0.88,
+      "promoter_latest": 65.67
+    },
+    {
+      "ticker": "SUNDRMFAST",
+      "flow_score": 50.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.7%)",
+        "DII rising (+3.75%)",
+        "Promoter falling (-1.57%)"
+      ],
+      "fii_latest": 11.25,
+      "dii_latest": 22.39,
+      "promoter_latest": 46.94
+    },
+    {
+      "ticker": "SUNTECK",
+      "flow_score": 50.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+3.11%)",
+        "DII falling (-0.36%)",
+        "Promoter falling (-4.08%)"
+      ],
+      "fii_latest": 20.58,
+      "dii_latest": 5.61,
+      "promoter_latest": 63.14
+    },
+    {
+      "ticker": "UCOBANK",
+      "flow_score": 50.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "DII rising (+3.04%)",
+        "Promoter falling (-4.44%)"
+      ],
+      "fii_latest": 0.08,
+      "dii_latest": 4.39,
+      "promoter_latest": 90.95
+    },
+    {
+      "ticker": "VARROC",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.62%)",
+        "DII falling (-0.86%)"
+      ],
+      "fii_latest": 4.45,
+      "dii_latest": 11.35,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "VENKEYS",
+      "flow_score": 50.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [],
+      "fii_latest": 1.14,
+      "dii_latest": 0.13,
+      "promoter_latest": 56.11
+    },
+    {
+      "ticker": "VGUARD",
+      "flow_score": 50.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-0.76%)",
+        "DII rising (+4.01%)",
+        "Promoter falling (-2.41%)"
+      ],
+      "fii_latest": 12.07,
+      "dii_latest": 23.39,
+      "promoter_latest": 53.22
+    },
+    {
+      "ticker": "ALBK",
+      "flow_score": 47.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-3.1%)",
+        "DII falling (-15.46%)",
+        "Promoter rising (+27.51%)"
+      ],
+      "fii_latest": 0.6,
+      "dii_latest": 2.73,
+      "promoter_latest": 93.43
+    },
+    {
+      "ticker": "ANDHRABANK",
+      "flow_score": 47.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-5.69%)",
+        "DII falling (-12.45%)",
+        "Promoter rising (+26.99%)"
+      ],
+      "fii_latest": 0.62,
+      "dii_latest": 3.21,
+      "promoter_latest": 88.25
+    },
+    {
+      "ticker": "CORPBANK",
+      "flow_score": 47.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-1.36%)",
+        "DII falling (-17.78%)",
+        "Promoter rising (+22.74%)"
+      ],
+      "fii_latest": 0.33,
+      "dii_latest": 4.16,
+      "promoter_latest": 93.5
+    },
+    {
+      "ticker": "DELTACORP",
+      "flow_score": 47.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-5.07%)",
+        "DII falling (-17.8%)",
+        "Promoter rising (+1.18%)"
+      ],
+      "fii_latest": 1.61,
+      "dii_latest": 0.24,
+      "promoter_latest": 34.46
+    },
+    {
+      "ticker": "JMFINANCIL",
+      "flow_score": 47.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-3.56%)",
+        "DII falling (-1.73%)",
+        "Promoter rising (+0.59%)"
+      ],
+      "fii_latest": 17.16,
+      "dii_latest": 5.88,
+      "promoter_latest": 57.07
+    },
+    {
+      "ticker": "MAHLOG",
+      "flow_score": 47.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-6.69%)",
+        "DII falling (-3.11%)",
+        "Promoter rising (+1.54%)"
+      ],
+      "fii_latest": 4.82,
+      "dii_latest": 13.86,
+      "promoter_latest": 59.58
+    },
+    {
+      "ticker": "ORIENTBANK",
+      "flow_score": 47.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-3.87%)",
+        "DII falling (-19.39%)",
+        "Promoter rising (+29.2%)"
+      ],
+      "fii_latest": 2.12,
+      "dii_latest": 5.49,
+      "promoter_latest": 87.58
+    },
+    {
+      "ticker": "ORIENTCEM",
+      "flow_score": 47.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-1.17%)",
+        "DII falling (-8.67%)",
+        "Promoter rising (+34.76%)"
+      ],
+      "fii_latest": 4.7,
+      "dii_latest": 1.97,
+      "promoter_latest": 72.66
+    },
+    {
+      "ticker": "SYNDIBANK",
+      "flow_score": 47.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-2.18%)",
+        "DII falling (-4.03%)",
+        "Promoter rising (+5.56%)"
+      ],
+      "fii_latest": 1.89,
+      "dii_latest": 8.08,
+      "promoter_latest": 78.48
+    },
+    {
+      "ticker": "TCNSBRANDS",
+      "flow_score": 47.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-13.4%)",
+        "DII falling (-3.98%)",
+        "Promoter rising (+19.71%)"
+      ],
+      "fii_latest": 4.46,
+      "dii_latest": 2.15,
+      "promoter_latest": 52.01
+    },
+    {
+      "ticker": "POLYCAB",
+      "flow_score": 45.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+8.55%)",
+        "DII falling (-1.8%)",
+        "Promoter falling (-4.49%)"
+      ],
+      "fii_latest": 18.21,
+      "dii_latest": 7.95,
+      "promoter_latest": 61.5
+    },
+    {
+      "ticker": "ABFRL",
+      "flow_score": 45.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.33%)",
+        "DII falling (-10.24%)",
+        "Promoter falling (-8.86%)"
+      ],
+      "fii_latest": 15.53,
+      "dii_latest": 6.62,
+      "promoter_latest": 46.61
+    },
+    {
+      "ticker": "ADVENZYMES",
+      "flow_score": 45.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+3.61%)",
+        "DII falling (-2.17%)",
+        "Promoter falling (-3.26%)"
+      ],
+      "fii_latest": 25.5,
+      "dii_latest": 5.41,
+      "promoter_latest": 43.26
+    },
+    {
+      "ticker": "BATAINDIA",
+      "flow_score": 45.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-1.92%)"
+      ],
+      "fii_latest": 6.43,
+      "dii_latest": 28.39,
+      "promoter_latest": 50.16
+    },
+    {
+      "ticker": "CHOLAHLDNG",
+      "flow_score": 45.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+2.5%)",
+        "DII falling (-1.06%)",
+        "Promoter falling (-2.01%)"
+      ],
+      "fii_latest": 13.81,
+      "dii_latest": 26.09,
+      "promoter_latest": 46.38
+    },
+    {
+      "ticker": "COROMANDEL",
+      "flow_score": 45.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+5.46%)",
+        "DII falling (-2.4%)",
+        "Promoter falling (-1.06%)"
+      ],
+      "fii_latest": 13.02,
+      "dii_latest": 18.19,
+      "promoter_latest": 56.35
+    },
+    {
+      "ticker": "HERITGFOOD",
+      "flow_score": 45.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-9.67%)"
+      ],
+      "fii_latest": 2.21,
+      "dii_latest": 6.21,
+      "promoter_latest": 41.3
+    },
+    {
+      "ticker": "JISLJALEQS",
+      "flow_score": 45.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-1.26%)"
+      ],
+      "fii_latest": 3.91,
+      "dii_latest": 8.61,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "NHPC",
+      "flow_score": 45.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+2.77%)",
+        "DII falling (-3.45%)",
+        "Promoter falling (-3.55%)"
+      ],
+      "fii_latest": 10.34,
+      "dii_latest": 10.78,
+      "promoter_latest": 67.4
+    },
+    {
+      "ticker": "NILKAMAL",
+      "flow_score": 45.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-6.12%)"
+      ],
+      "fii_latest": 0.98,
+      "dii_latest": 13.72,
+      "promoter_latest": 64.54
+    },
+    {
+      "ticker": "RAMCOCEM",
+      "flow_score": 45.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-3.52%)",
+        "Promoter rising (+0.44%)"
+      ],
+      "fii_latest": 8.04,
+      "dii_latest": 28.92,
+      "promoter_latest": 42.55
+    },
+    {
+      "ticker": "RITES",
+      "flow_score": 45.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-6.55%)"
+      ],
+      "fii_latest": 3.47,
+      "dii_latest": 8.7,
+      "promoter_latest": 72.2
+    },
+    {
+      "ticker": "SREINFRA",
+      "flow_score": 45.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.87%)",
+        "DII falling (-1.3%)"
+      ],
+      "fii_latest": 0.09,
+      "dii_latest": 0.0,
+      "promoter_latest": 60.79
+    },
+    {
+      "ticker": "STARCEMENT",
+      "flow_score": 45.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+1.57%)",
+        "DII falling (-3.58%)",
+        "Promoter falling (-8.64%)"
+      ],
+      "fii_latest": 2.26,
+      "dii_latest": 2.65,
+      "promoter_latest": 58.12
+    },
+    {
+      "ticker": "SUNDARMFIN",
+      "flow_score": 45.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+11.19%)",
+        "DII falling (-9.25%)",
+        "Promoter falling (-1.28%)"
+      ],
+      "fii_latest": 18.97,
+      "dii_latest": 7.69,
+      "promoter_latest": 37.21
+    },
+    {
+      "ticker": "SYMPHONY",
+      "flow_score": 45.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-0.34%)",
+        "DII falling (-1.97%)"
+      ],
+      "fii_latest": 3.28,
+      "dii_latest": 8.72,
+      "promoter_latest": 73.42
+    },
+    {
+      "ticker": "VSTIND",
+      "flow_score": 45.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "DII falling (-10.61%)"
+      ],
+      "fii_latest": 1.34,
+      "dii_latest": 6.63,
+      "promoter_latest": 32.16
+    },
+    {
+      "ticker": "YESBANK",
+      "flow_score": 45.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+22.63%)",
+        "DII falling (-15.91%)",
+        "Promoter falling (-20.19%)"
+      ],
+      "fii_latest": 46.42,
+      "dii_latest": 21.81,
+      "promoter_latest": 0.0
+    },
+    {
+      "ticker": "CARBORUNIV",
+      "flow_score": 43.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+0.75%)",
+        "Promoter falling (-2.62%)"
+      ],
+      "fii_latest": 10.73,
+      "dii_latest": 29.45,
+      "promoter_latest": 38.89
+    },
+    {
+      "ticker": "IRCON",
+      "flow_score": 43.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-0.39%)",
+        "DII rising (+0.99%)",
+        "Promoter falling (-8.01%)"
+      ],
+      "fii_latest": 4.78,
+      "dii_latest": 1.79,
+      "promoter_latest": 65.17
+    },
+    {
+      "ticker": "MOTILALOFS",
+      "flow_score": 43.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+0.62%)",
+        "Promoter falling (-2.12%)"
+      ],
+      "fii_latest": 7.03,
+      "dii_latest": 6.02,
+      "promoter_latest": 67.54
+    },
+    {
+      "ticker": "NETWORK18",
+      "flow_score": 43.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+0.67%)",
+        "DII falling (-0.46%)",
+        "Promoter falling (-18.11%)"
+      ],
+      "fii_latest": 6.29,
+      "dii_latest": 0.13,
+      "promoter_latest": 56.89
+    },
+    {
+      "ticker": "VRLLOG",
+      "flow_score": 43.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+0.8%)",
+        "Promoter falling (-4.0%)"
+      ],
+      "fii_latest": 2.98,
+      "dii_latest": 25.05,
+      "promoter_latest": 60.24
+    },
+    {
+      "ticker": "TCS",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.8%)",
+        "DII rising (+3.54%)",
+        "Promoter falling (-0.53%)"
+      ],
+      "fii_latest": 9.66,
+      "dii_latest": 13.34,
+      "promoter_latest": 71.77
+    },
+    {
+      "ticker": "INFY",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.99%)",
+        "DII rising (+8.61%)",
+        "Promoter falling (-0.56%)"
+      ],
+      "fii_latest": 28.45,
+      "dii_latest": 43.19,
+      "promoter_latest": 14.38
+    },
+    {
+      "ticker": "ULTRACEMCO",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.2%)",
+        "DII rising (+2.47%)",
+        "Promoter falling (-0.63%)"
+      ],
+      "fii_latest": 13.61,
+      "dii_latest": 18.42,
+      "promoter_latest": 59.33
+    },
+    {
+      "ticker": "TATASTEEL",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.7%)",
+        "DII rising (+5.71%)",
+        "Promoter falling (-0.71%)"
+      ],
+      "fii_latest": 18.58,
+      "dii_latest": 26.67,
+      "promoter_latest": 33.19
+    },
+    {
+      "ticker": "CIPLA",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.94%)",
+        "DII rising (+7.66%)",
+        "Promoter falling (-4.24%)"
+      ],
+      "fii_latest": 22.55,
+      "dii_latest": 31.71,
+      "promoter_latest": 29.22
+    },
+    {
+      "ticker": "GODREJCP",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-9.59%)",
+        "DII rising (+10.63%)",
+        "Promoter falling (-10.16%)"
+      ],
+      "fii_latest": 13.94,
+      "dii_latest": 18.0,
+      "promoter_latest": 53.06
+    },
+    {
+      "ticker": "DLF",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.76%)",
+        "DII rising (+2.07%)",
+        "Promoter falling (-0.87%)"
+      ],
+      "fii_latest": 13.54,
+      "dii_latest": 6.94,
+      "promoter_latest": 74.08
+    },
+    {
+      "ticker": "HAL",
+      "flow_score": 42.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-1.69%)"
+      ],
+      "fii_latest": 10.21,
+      "dii_latest": 10.43,
+      "promoter_latest": 71.64
+    },
+    {
+      "ticker": "NAUKRI",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.57%)",
+        "DII rising (+5.61%)",
+        "Promoter falling (-0.55%)"
+      ],
+      "fii_latest": 27.97,
+      "dii_latest": 23.43,
+      "promoter_latest": 37.5
+    },
+    {
+      "ticker": "ABCAPITAL",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.52%)",
+        "DII rising (+5.98%)",
+        "Promoter falling (-0.6%)"
+      ],
+      "fii_latest": 7.01,
+      "dii_latest": 13.71,
+      "promoter_latest": 68.51
+    },
+    {
+      "ticker": "APOLLOHOSP",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-5.31%)",
+        "DII rising (+5.74%)",
+        "Promoter falling (-1.31%)"
+      ],
+      "fii_latest": 42.62,
+      "dii_latest": 22.76,
+      "promoter_latest": 28.02
+    },
+    {
+      "ticker": "ASTRAL",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.15%)",
+        "DII rising (+5.05%)",
+        "Promoter falling (-1.63%)"
+      ],
+      "fii_latest": 14.5,
+      "dii_latest": 20.92,
+      "promoter_latest": 54.22
+    },
+    {
+      "ticker": "AUBANK",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.34%)",
+        "DII rising (+12.05%)",
+        "Promoter falling (-2.77%)"
+      ],
+      "fii_latest": 37.27,
+      "dii_latest": 31.3,
+      "promoter_latest": 22.76
+    },
+    {
+      "ticker": "BANDHANBNK",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-11.46%)",
+        "DII rising (+9.93%)",
+        "Promoter falling (-1.01%)"
+      ],
+      "fii_latest": 22.07,
+      "dii_latest": 22.33,
+      "promoter_latest": 38.98
+    },
+    {
+      "ticker": "BHARATFORG",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.64%)",
+        "DII rising (+4.01%)",
+        "Promoter falling (-1.19%)"
+      ],
+      "fii_latest": 14.15,
+      "dii_latest": 32.62,
+      "promoter_latest": 44.07
+    },
+    {
+      "ticker": "BIOCON",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.0%)",
+        "DII rising (+11.42%)",
+        "Promoter falling (-15.73%)"
+      ],
+      "fii_latest": 7.52,
+      "dii_latest": 24.01,
+      "promoter_latest": 44.91
+    },
+    {
+      "ticker": "CENTURYPLY",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.51%)",
+        "DII rising (+5.05%)",
+        "Promoter falling (-1.21%)"
+      ],
+      "fii_latest": 4.1,
+      "dii_latest": 19.17,
+      "promoter_latest": 71.83
+    },
+    {
+      "ticker": "CGPOWER",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.91%)",
+        "DII rising (+10.27%)",
+        "Promoter falling (-1.76%)"
+      ],
+      "fii_latest": 12.03,
+      "dii_latest": 18.01,
+      "promoter_latest": 56.36
+    },
+    {
+      "ticker": "COCHINSHIP",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.63%)",
+        "DII rising (+2.84%)",
+        "Promoter falling (-4.95%)"
+      ],
+      "fii_latest": 3.1,
+      "dii_latest": 6.05,
+      "promoter_latest": 67.91
+    },
+    {
+      "ticker": "COFFEEDAY",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.46%)",
+        "DII rising (+2.24%)",
+        "Promoter falling (-2.0%)"
+      ],
+      "fii_latest": 0.85,
+      "dii_latest": 2.38,
+      "promoter_latest": 7.83
+    },
+    {
+      "ticker": "CROMPTON",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-14.51%)",
+        "DII rising (+17.62%)",
+        "Promoter falling (-34.38%)"
+      ],
+      "fii_latest": 20.49,
+      "dii_latest": 66.11,
+      "promoter_latest": 0.0
+    },
+    {
+      "ticker": "DISHTV",
+      "flow_score": 42.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-2.06%)"
+      ],
+      "fii_latest": 8.23,
+      "dii_latest": 2.5,
+      "promoter_latest": 4.07
+    },
+    {
+      "ticker": "EDELWEISS",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-12.32%)",
+        "DII rising (+3.84%)",
+        "Promoter falling (-0.53%)"
+      ],
+      "fii_latest": 19.04,
+      "dii_latest": 6.46,
+      "promoter_latest": 32.25
+    },
+    {
+      "ticker": "EXIDEIND",
+      "flow_score": 42.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-2.56%)",
+        "DII falling (-0.65%)"
+      ],
+      "fii_latest": 10.3,
+      "dii_latest": 19.12,
+      "promoter_latest": 45.99
+    },
+    {
+      "ticker": "FCONSUMER",
+      "flow_score": 42.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-10.36%)"
+      ],
+      "fii_latest": 0.0,
+      "dii_latest": 0.0,
+      "promoter_latest": 3.49
+    },
+    {
+      "ticker": "GODREJPROP",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.68%)",
+        "DII rising (+3.9%)",
+        "Promoter falling (-6.82%)"
+      ],
+      "fii_latest": 26.17,
+      "dii_latest": 8.19,
+      "promoter_latest": 51.66
+    },
+    {
+      "ticker": "GRANULES",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-6.04%)",
+        "DII rising (+10.33%)",
+        "Promoter falling (-4.0%)"
+      ],
+      "fii_latest": 15.31,
+      "dii_latest": 17.01,
+      "promoter_latest": 38.02
+    },
+    {
+      "ticker": "GREAVESCOT",
+      "flow_score": 42.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-3.09%)"
+      ],
+      "fii_latest": 1.85,
+      "dii_latest": 3.67,
+      "promoter_latest": 55.78
+    },
+    {
+      "ticker": "GSPL",
+      "flow_score": 42.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-1.01%)"
+      ],
+      "fii_latest": 15.54,
+      "dii_latest": 25.36,
+      "promoter_latest": 37.63
+    },
+    {
+      "ticker": "HATHWAY",
+      "flow_score": 42.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-5.88%)",
+        "DII falling (-0.41%)"
+      ],
+      "fii_latest": 0.64,
+      "dii_latest": 0.0,
+      "promoter_latest": 75.0
+    },
+    {
+      "ticker": "ICICIPRULI",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-4.54%)",
+        "DII rising (+4.73%)",
+        "Promoter falling (-0.53%)"
+      ],
+      "fii_latest": 10.89,
+      "dii_latest": 11.05,
+      "promoter_latest": 72.8
+    },
+    {
+      "ticker": "IRB",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.45%)",
+        "DII rising (+2.64%)",
+        "Promoter falling (-3.6%)"
+      ],
+      "fii_latest": 43.84,
+      "dii_latest": 10.02,
+      "promoter_latest": 30.79
+    },
+    {
+      "ticker": "JUBLFOOD",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-7.93%)",
+        "DII rising (+14.05%)",
+        "Promoter falling (-1.67%)"
+      ],
+      "fii_latest": 17.29,
+      "dii_latest": 36.38,
+      "promoter_latest": 40.27
+    },
+    {
+      "ticker": "JYOTHYLAB",
+      "flow_score": 42.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-1.62%)",
+        "DII falling (-0.74%)"
+      ],
+      "fii_latest": 12.35,
+      "dii_latest": 14.62,
+      "promoter_latest": 62.89
+    },
+    {
+      "ticker": "LALPATHLAB",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-6.09%)",
+        "DII rising (+13.03%)",
+        "Promoter falling (-1.8%)"
+      ],
+      "fii_latest": 17.18,
+      "dii_latest": 21.37,
+      "promoter_latest": 53.21
+    },
+    {
+      "ticker": "LEMONTREE",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.89%)",
+        "DII rising (+5.29%)",
+        "Promoter falling (-1.28%)"
+      ],
+      "fii_latest": 21.59,
+      "dii_latest": 15.67,
+      "promoter_latest": 22.32
+    },
+    {
+      "ticker": "M&M",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.91%)",
+        "DII rising (+4.48%)",
+        "Promoter falling (-0.92%)"
+      ],
+      "fii_latest": 36.23,
+      "dii_latest": 31.37,
+      "promoter_latest": 18.45
+    },
+    {
+      "ticker": "MANAPPURAM",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-7.5%)",
+        "DII rising (+2.31%)",
+        "Promoter falling (-3.43%)"
+      ],
+      "fii_latest": 23.23,
+      "dii_latest": 12.96,
+      "promoter_latest": 31.77
+    },
+    {
+      "ticker": "OMAXE",
+      "flow_score": 42.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-2.39%)",
+        "DII falling (-0.84%)"
+      ],
+      "fii_latest": 6.18,
+      "dii_latest": 1.56,
+      "promoter_latest": 74.14
+    },
+    {
+      "ticker": "PAGEIND",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.99%)",
+        "DII rising (+11.09%)",
+        "Promoter falling (-3.23%)"
+      ],
+      "fii_latest": 19.0,
+      "dii_latest": 32.5,
+      "promoter_latest": 42.89
+    },
+    {
+      "ticker": "PRESTIGE",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-6.48%)",
+        "DII rising (+11.33%)",
+        "Promoter falling (-4.53%)"
+      ],
+      "fii_latest": 14.2,
+      "dii_latest": 22.6,
+      "promoter_latest": 60.95
+    },
+    {
+      "ticker": "RAJESHEXPO",
+      "flow_score": 42.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-3.34%)",
+        "DII falling (-0.46%)",
+        "Promoter rising (+0.5%)"
+      ],
+      "fii_latest": 14.26,
+      "dii_latest": 10.8,
+      "promoter_latest": 54.55
+    },
+    {
+      "ticker": "SHK",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-2.26%)",
+        "DII rising (+3.81%)",
+        "Promoter falling (-4.08%)"
+      ],
+      "fii_latest": 7.42,
+      "dii_latest": 5.18,
+      "promoter_latest": 54.87
+    },
+    {
+      "ticker": "SYNGENE",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-9.28%)",
+        "DII rising (+15.24%)",
+        "Promoter falling (-2.12%)"
+      ],
+      "fii_latest": 13.91,
+      "dii_latest": 26.44,
+      "promoter_latest": 52.68
+    },
+    {
+      "ticker": "TEAMLEASE",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-26.1%)",
+        "DII rising (+21.79%)",
+        "Promoter falling (-0.5%)"
+      ],
+      "fii_latest": 6.76,
+      "dii_latest": 49.6,
+      "promoter_latest": 31.11
+    },
+    {
+      "ticker": "THERMAX",
+      "flow_score": 42.0,
+      "category": "Neutral / Mixed",
+      "key_drivers": [
+        "FII falling (-1.1%)"
+      ],
+      "fii_latest": 11.25,
+      "dii_latest": 15.49,
+      "promoter_latest": 61.99
+    },
+    {
+      "ticker": "TIINDIA",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-7.99%)",
+        "DII rising (+9.5%)",
+        "Promoter falling (-2.08%)"
+      ],
+      "fii_latest": 21.42,
+      "dii_latest": 21.75,
+      "promoter_latest": 44.05
+    },
+    {
+      "ticker": "UBL",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-1.37%)",
+        "DII rising (+3.43%)",
+        "Promoter falling (-1.88%)"
+      ],
+      "fii_latest": 4.94,
+      "dii_latest": 18.08,
+      "promoter_latest": 70.84
+    },
+    {
+      "ticker": "VBL",
+      "flow_score": 42.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-7.2%)",
+        "DII rising (+11.19%)",
+        "Promoter falling (-4.18%)"
+      ],
+      "fii_latest": 19.51,
+      "dii_latest": 14.35,
+      "promoter_latest": 59.43
+    },
+    {
+      "ticker": "JKLAKSHMI",
+      "flow_score": 38.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+0.46%)",
+        "DII falling (-5.33%)",
+        "Promoter falling (-1.19%)"
+      ],
+      "fii_latest": 11.96,
+      "dii_latest": 23.0,
+      "promoter_latest": 45.12
+    },
+    {
+      "ticker": "KNRCON",
+      "flow_score": 38.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+0.32%)",
+        "DII falling (-14.34%)",
+        "Promoter falling (-2.28%)"
+      ],
+      "fii_latest": 6.3,
+      "dii_latest": 19.32,
+      "promoter_latest": 48.81
+    },
+    {
+      "ticker": "SADBHAV",
+      "flow_score": 38.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "DII falling (-10.88%)",
+        "Promoter falling (-12.16%)"
+      ],
+      "fii_latest": 0.32,
+      "dii_latest": 0.0,
+      "promoter_latest": 25.53
+    },
+    {
+      "ticker": "SFL",
+      "flow_score": 38.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII rising (+0.94%)",
+        "DII falling (-1.4%)",
+        "Promoter falling (-7.26%)"
+      ],
+      "fii_latest": 4.15,
+      "dii_latest": 20.55,
+      "promoter_latest": 65.69
+    },
+    {
+      "ticker": "ICICIBANK",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-10.05%)",
+        "DII falling (-5.06%)"
+      ],
+      "fii_latest": 34.48,
+      "dii_latest": 39.94,
+      "promoter_latest": null
+    },
+    {
+      "ticker": "AVANTIFEED",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-5.43%)",
+        "DII falling (-2.26%)"
+      ],
+      "fii_latest": 7.63,
+      "dii_latest": 6.82,
+      "promoter_latest": 43.23
+    },
+    {
+      "ticker": "BDL",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-1.34%)",
+        "DII falling (-2.81%)"
+      ],
+      "fii_latest": 2.02,
+      "dii_latest": 10.97,
+      "promoter_latest": 74.93
+    },
+    {
+      "ticker": "BLISSGVS",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-6.05%)",
+        "DII falling (-1.58%)"
+      ],
+      "fii_latest": 10.45,
+      "dii_latest": 5.04,
+      "promoter_latest": 35.36
+    },
+    {
+      "ticker": "CASTROLIND",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-2.93%)",
+        "DII falling (-2.32%)"
+      ],
+      "fii_latest": 8.48,
+      "dii_latest": 14.2,
+      "promoter_latest": 51.0
+    },
+    {
+      "ticker": "CDSL",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-3.74%)",
+        "DII falling (-7.61%)"
+      ],
+      "fii_latest": 11.36,
+      "dii_latest": 14.42,
+      "promoter_latest": 15.0
+    },
+    {
+      "ticker": "DCAL",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-1.45%)",
+        "DII falling (-1.5%)"
+      ],
+      "fii_latest": 7.45,
+      "dii_latest": 1.63,
+      "promoter_latest": 59.32
+    },
+    {
+      "ticker": "JAGRAN",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-1.07%)",
+        "DII falling (-4.79%)"
+      ],
+      "fii_latest": 2.24,
+      "dii_latest": 6.3,
+      "promoter_latest": 69.0
+    },
+    {
+      "ticker": "LUXIND",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-1.44%)",
+        "DII falling (-4.2%)"
+      ],
+      "fii_latest": 0.74,
+      "dii_latest": 4.76,
+      "promoter_latest": 74.19
+    },
+    {
+      "ticker": "MOIL",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-2.0%)",
+        "DII falling (-4.7%)"
+      ],
+      "fii_latest": 4.16,
+      "dii_latest": 7.63,
+      "promoter_latest": 64.68
+    },
+    {
+      "ticker": "PNCINFRA",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-3.08%)",
+        "DII falling (-3.95%)"
+      ],
+      "fii_latest": 7.18,
+      "dii_latest": 24.55,
+      "promoter_latest": 56.07
+    },
+    {
+      "ticker": "RAYMOND",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-8.02%)",
+        "DII falling (-1.89%)"
+      ],
+      "fii_latest": 9.74,
+      "dii_latest": 3.61,
+      "promoter_latest": 48.87
+    },
+    {
+      "ticker": "RELINFRA",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-7.39%)",
+        "DII falling (-1.82%)",
+        "Promoter rising (+0.4%)"
+      ],
+      "fii_latest": 5.53,
+      "dii_latest": 1.24,
+      "promoter_latest": 19.05
+    },
+    {
+      "ticker": "ZEEL",
+      "flow_score": 37.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-8.07%)",
+        "DII falling (-29.83%)"
+      ],
+      "fii_latest": 25.33,
+      "dii_latest": 10.79,
+      "promoter_latest": 3.99
+    },
+    {
+      "ticker": "GODREJAGRO",
+      "flow_score": 35.0,
+      "category": "DII Accumulation (FII exiting)",
+      "key_drivers": [
+        "FII falling (-3.38%)",
+        "DII rising (+0.82%)",
+        "Promoter falling (-6.29%)"
+      ],
+      "fii_latest": 6.32,
+      "dii_latest": 5.86,
+      "promoter_latest": 67.75
+    },
+    {
+      "ticker": "KEC",
+      "flow_score": 35.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-1.74%)",
+        "Promoter falling (-1.78%)"
+      ],
+      "fii_latest": 9.84,
+      "dii_latest": 26.86,
+      "promoter_latest": 50.1
+    },
+    {
+      "ticker": "RCOM",
+      "flow_score": 35.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "Promoter falling (-1.07%)"
+      ],
+      "fii_latest": 0.07,
+      "dii_latest": 4.38,
+      "promoter_latest": 0.78
+    },
+    {
+      "ticker": "RELCAPITAL",
+      "flow_score": 35.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-0.85%)",
+        "Promoter falling (-0.62%)"
+      ],
+      "fii_latest": 0.0,
+      "dii_latest": 2.99,
+      "promoter_latest": 0.89
+    },
+    {
+      "ticker": "SPTL",
+      "flow_score": 35.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-0.74%)",
+        "Promoter falling (-12.14%)"
+      ],
+      "fii_latest": 0.12,
+      "dii_latest": 0.18,
+      "promoter_latest": 0.08
+    },
+    {
+      "ticker": "TAKE",
+      "flow_score": 35.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "Promoter falling (-53.41%)"
+      ],
+      "fii_latest": 0.28,
+      "dii_latest": 0.0,
+      "promoter_latest": 0.0
+    },
+    {
+      "ticker": "DBL",
+      "flow_score": 30.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-0.59%)",
+        "DII falling (-2.93%)",
+        "Promoter falling (-7.01%)"
+      ],
+      "fii_latest": 1.97,
+      "dii_latest": 6.1,
+      "promoter_latest": 63.14
+    },
+    {
+      "ticker": "PARAGMILK",
+      "flow_score": 30.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "DII falling (-2.11%)",
+        "Promoter falling (-0.98%)"
+      ],
+      "fii_latest": 8.77,
+      "dii_latest": 5.25,
+      "promoter_latest": 40.65
+    },
+    {
+      "ticker": "ALLCARGO",
+      "flow_score": 27.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-3.55%)",
+        "DII falling (-0.37%)",
+        "Promoter falling (-29.63%)"
+      ],
+      "fii_latest": 7.27,
+      "dii_latest": 2.29,
+      "promoter_latest": 40.28
+    },
+    {
+      "ticker": "RHFL",
+      "flow_score": 27.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-2.19%)",
+        "Promoter falling (-48.04%)"
+      ],
+      "fii_latest": 0.0,
+      "dii_latest": 1.54,
+      "promoter_latest": 0.74
+    },
+    {
+      "ticker": "SHANKARA",
+      "flow_score": 27.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-3.41%)",
+        "DII falling (-0.86%)",
+        "Promoter falling (-7.75%)"
+      ],
+      "fii_latest": 6.47,
+      "dii_latest": 4.5,
+      "promoter_latest": 44.45
+    },
+    {
+      "ticker": "COFORGE",
+      "flow_score": 22.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-11.05%)",
+        "DII falling (-9.86%)",
+        "Promoter falling (-30.72%)"
+      ],
+      "fii_latest": 23.32,
+      "dii_latest": 44.42,
+      "promoter_latest": 0.0
+    },
+    {
+      "ticker": "COX&KINGS",
+      "flow_score": 22.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-39.6%)",
+        "DII falling (-1.07%)",
+        "Promoter falling (-37.55%)"
+      ],
+      "fii_latest": 0.05,
+      "dii_latest": 0.0,
+      "promoter_latest": 12.2
+    },
+    {
+      "ticker": "FLFL",
+      "flow_score": 22.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-2.82%)",
+        "DII falling (-11.77%)",
+        "Promoter falling (-25.47%)"
+      ],
+      "fii_latest": 19.93,
+      "dii_latest": 7.02,
+      "promoter_latest": 20.31
+    },
+    {
+      "ticker": "FRETAIL",
+      "flow_score": 22.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-11.06%)",
+        "DII falling (-8.97%)",
+        "Promoter falling (-32.71%)"
+      ],
+      "fii_latest": 2.6,
+      "dii_latest": 6.61,
+      "promoter_latest": 14.31
+    },
+    {
+      "ticker": "NH",
+      "flow_score": 22.0,
+      "category": "Institutional Distribution",
+      "key_drivers": [
+        "FII falling (-1.12%)",
+        "DII falling (-2.81%)",
+        "Promoter falling (-0.58%)"
+      ],
+      "fii_latest": 9.98,
+      "dii_latest": 9.14,
+      "promoter_latest": 63.27
+    },
+    {
+      "ticker": "VAKRANGEE",
+      "flow_score": 22.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-3.66%)",
+        "DII falling (-2.19%)",
+        "Promoter falling (-2.55%)"
+      ],
+      "fii_latest": 0.45,
+      "dii_latest": 4.13,
+      "promoter_latest": 40.05
+    },
+    {
+      "ticker": "VIPIND",
+      "flow_score": 22.0,
+      "category": "Distribution Risk (promoter selling)",
+      "key_drivers": [
+        "FII falling (-1.89%)",
+        "DII falling (-3.95%)",
+        "Promoter falling (-8.95%)"
+      ],
+      "fii_latest": 7.06,
+      "dii_latest": 16.87,
+      "promoter_latest": 42.35
+    }
+  ],
+  "count": 464
+}
