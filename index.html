@@ -15,9 +15,9 @@
 *{box-sizing:border-box;margin:0;padding:0}
 body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:14px;min-height:100vh}
 /* NAV */
-.nav{background:var(--bg2);border-bottom:1px solid var(--border);padding:0 24px;display:flex;align-items:center;gap:0;position:sticky;top:0;z-index:100}
+.nav{background:var(--bg2);border-bottom:1px solid var(--border);padding:0 24px;display:flex;align-items:center;gap:0;position:sticky;top:0;z-index:100;flex-wrap:wrap;row-gap:0}
 .nav-brand{font-weight:700;font-size:15px;color:var(--green);padding:14px 16px 14px 0;border-right:1px solid var(--border);margin-right:8px;white-space:nowrap}
-.nav-tab{padding:14px 16px;font-size:13px;cursor:pointer;color:var(--text2);border-bottom:2px solid transparent;transition:all .15s;white-space:nowrap;background:none;border-top:none;border-left:none;border-right:none;font-family:inherit}
+.nav-tab{padding:12px 12px;font-size:13px;cursor:pointer;color:var(--text2);border-bottom:2px solid transparent;transition:all .15s;white-space:nowrap;background:none;border-top:none;border-left:none;border-right:none;font-family:inherit}
 .nav-tab:hover{color:var(--text)}
 .nav-tab.on{color:var(--text);border-bottom-color:var(--green)}
 .nav-tab.nr-tab.on{border-bottom-color:var(--blue)}
@@ -42,6 +42,10 @@ body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSy
 .tbl-wrap{overflow-x:auto;border-radius:10px;border:1px solid var(--border)}
 table{width:100%;border-collapse:collapse;font-size:12px}
 th{background:var(--bg3);padding:10px 12px;text-align:left;font-size:11px;font-weight:500;color:var(--text2);border-bottom:1px solid var(--border);white-space:nowrap}
+/* Floating header clone - always on top when scrolled */
+#floating-header{position:fixed;left:0;right:0;background:var(--bg3);border-bottom:1px solid var(--border);z-index:90;overflow:hidden;display:none;box-shadow:0 2px 4px rgba(0,0,0,.3)}
+#floating-header table{width:100%;border-collapse:collapse}
+#floating-header th{background:var(--bg3);padding:10px 12px;text-align:left;font-size:11px;font-weight:500;color:var(--text2);white-space:nowrap}
 td{padding:10px 12px;border-bottom:1px solid var(--border);vertical-align:middle}
 tr:last-child td{border-bottom:none}
 tr{cursor:pointer;transition:background .1s}
@@ -135,16 +139,18 @@ tr:hover{background:var(--bg3)}
   <button class="nav-tab nr-tab" onclick="showTab('nonresults',this)">📈 Non-Results</button>
   <button class="nav-tab" onclick="showTab('calendar',this)">📅 Calendar</button>
   <button class="nav-tab" onclick="showTab('backtest',this)">🔬 8Q Backtest</button>
-  <button class="nav-tab" onclick="showTab('records',this)">📁 Signal Records</button>
+  <button class="nav-tab" onclick="showTab('records',this)">📁 Records</button>
   <button class="nav-tab" onclick="showTab('simulation',this)">🧪 Simulation</button>
-  <button class="nav-tab" onclick="showTab('flow',this)">🏦 Institutional Flow</button>
-  <button class="nav-tab" onclick="showTab('conviction',this)">🎯 Conviction (Governance)</button>
+  <button class="nav-tab" onclick="showTab('flow',this)">🏦 Flow</button>
+  <button class="nav-tab" onclick="showTab('conviction',this)">🎯 Conviction</button>
   <button class="nav-tab" onclick="showTab('earnings',this)">📊 Earnings</button>
   <button class="nav-tab" onclick="showTab('technical',this)">📈 Technical</button>
   <button class="nav-tab" onclick="showTab('promoter',this)">👤 Promoter</button>
   <button class="nav-tab" onclick="showTab('sector',this)">🏭 Sector</button>
+  <button class="nav-tab" onclick="showTab('final',this)">⚡ Final Decision</button>
+  <button class="nav-tab" onclick="showTab('chart',this)">📉 Live Chart</button>
   <div class="nav-right">
-    <span style="font-size:10px;color:#00d68f;background:rgba(0,214,143,.12);padding:2px 8px;border-radius:10px;font-weight:600">v2.2-AGENTS</span>
+    <span style="font-size:10px;color:#00d68f;background:rgba(0,214,143,.12);padding:2px 8px;border-radius:10px;font-weight:600">SHARED · LIVE</span>
     <span id="gate-status" class="gate-badge" style="background:rgba(0,214,143,.15);color:var(--green)">Gate checking...</span>
     <span id="last-run" style="font-size:11px">Loading...</span>
   </div>
@@ -262,6 +268,24 @@ async function resendAlert(scrip, sigJson) {
   }
 }
 </script>
+
+<!-- ═══════════════════════════════════════════════════════════
+     TAB: LIVE CHART (TradingView embed — no login required)
+═══════════════════════════════════════════════════════════ -->
+<div class="section" id="tab-chart">
+<div class="wrap">
+  <div class="res-info">
+    <strong>Live TradingView chart</strong> — search any NSE symbol or click a signal's <em>View Live Chart</em> button. Real-time data, no login needed.
+  </div>
+  <div style="display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:14px">
+    <input id="chart-sym" type="text" placeholder="e.g. RELIANCE" class="search-input" style="width:220px"
+           onkeydown="if(event.key==='Enter')loadChart(this.value)">
+    <button class="bt-btn" onclick="loadChart(document.getElementById('chart-sym').value)">Load chart</button>
+    <span id="chart-current" style="font-size:12px;color:var(--text2)"></span>
+  </div>
+  <div id="tv-chart-container" style="position:relative;height:600px;border:1px solid var(--border);border-radius:10px;overflow:hidden"></div>
+</div>
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════
      TAB 1: LIVE SIGNALS (Results Season)
@@ -553,6 +577,33 @@ async function resendAlert(scrip, sigJson) {
 </div>
 </div>
 
+<!-- TAB: FINAL DECISION (QUARANTINE ARCHITECTURE) -->
+<div class="section" id="tab-final">
+<div class="wrap">
+  <div style="background:#0d1a2e;border:1px solid var(--blue);border-radius:8px;padding:14px 16px;margin-bottom:18px">
+    <div style="font-size:13px;font-weight:600;color:var(--blue);margin-bottom:6px">⚡ Final Decision Engine — Quarantine Architecture</div>
+    <div style="font-size:11px;color:var(--text2);line-height:1.6">
+      The ONLY decision-making layer. Takes inputs from other tabs (which are data layers only).
+      <br><br>
+      <span style="color:#00d68f">● ALPHA LAYER (Buy Probability):</span> Flow 75% + Promoter 15% + Sector 10% — only signals with proven-positive or untested edge
+      <br>
+      <span style="color:var(--red)">● RISK LAYER (Risk Probability):</span> Earnings + Technical + Governance — all negative/uncertain signals quarantined here, never enters alpha
+      <br><br>
+      <b style="color:var(--text)">No blended scoring.</b> Buy and Risk computed independently from separate inputs.
+      <br><b style="color:var(--text)">Hard rules:</b> BUY only if Buy ≥80 AND Flow ≥70 AND Risk &lt;50. AVOID if Risk ≥70.
+      <br><b style="color:var(--yellow)">Verify on Tickertape before acting. Not investment advice.</b>
+    </div>
+  </div>
+  <div id="final-summary" style="margin-bottom:16px"></div>
+  <div class="tbl-wrap"><table id="tbl-final">
+    <thead><tr>
+      <th>Rank</th><th>Ticker</th><th>Buy Prob</th><th>Risk Prob</th><th>Decision</th><th>Conf</th><th>Flow</th><th>Cross Conf</th><th>Classification</th>
+    </tr></thead>
+    <tbody></tbody>
+  </table></div>
+</div>
+</div>
+
 <script>
 // ── DATA ─────────────────────────────────────────────────────────────────────
 let ALL_SIGNALS = [];
@@ -587,6 +638,40 @@ function showTab(id, btn) {
   if(id==='technical') renderTechnical();
   if(id==='promoter') renderPromoter();
   if(id==='sector') renderSector();
+  if(id==='final') renderFinal();
+  if(id==='chart' && !document.getElementById('tv-chart-container').hasChildNodes())
+    loadChart(document.getElementById('chart-sym').value || 'NIFTY');
+}
+
+// ── LIVE CHART (TradingView tv.js embed — no login / no API key needed) ──────
+function loadChart(raw) {
+  let sym = (raw || '').toUpperCase().trim();
+  if (!sym) sym = 'NIFTY';
+  const tvSym = 'NSE:' + sym.replace(/[^A-Z0-9]+/g, '_');   // M&M -> M_M, BAJAJ-AUTO -> BAJAJ_AUTO
+  const enc = encodeURIComponent(tvSym);
+  document.getElementById('chart-sym').value = sym;
+  // Reliable iframe embed — forces the exact NSE symbol (the old tv.js widget
+  // silently fell back to AAPL when it couldn't resolve a symbol).
+  const url = 'https://s.tradingview.com/widgetembed/?symbol=' + enc +
+    '&interval=D&theme=dark&style=1&locale=in&timezone=Asia%2FKolkata' +
+    '&withdateranges=1&hidesidetoolbar=0&studies=%5B%22STD%3BEMA%22%2C%22STD%3BRSI%22%5D';
+  const tvUrl = 'https://www.tradingview.com/chart/?symbol=' + enc;
+  document.getElementById('chart-current').innerHTML =
+    'Showing <b>' + tvSym + '</b> · ' +
+    '<a href="' + tvUrl + '" target="_blank" rel="noopener" style="color:var(--blue);font-weight:600">Open in TradingView ↗</a>';
+  document.getElementById('tv-chart-container').innerHTML =
+    '<iframe src="' + url + '" title="TradingView chart" ' +
+    'style="width:100%;height:100%;border:0;display:block" ' +
+    'allowtransparency="true" scrolling="no" allowfullscreen loading="lazy"></iframe>' +
+    '<div style="position:absolute;bottom:8px;right:12px;font-size:11px;color:var(--text2);' +
+    'background:var(--bg2);padding:3px 8px;border-radius:5px;pointer-events:auto">' +
+    'Chart blank? <a href="' + tvUrl + '" target="_blank" rel="noopener" ' +
+    'style="color:var(--blue);font-weight:600">open it on TradingView ↗</a></div>';
+}
+function openChart(sym) {
+  const btn = [...document.querySelectorAll('.nav-tab')].find(b => (b.getAttribute('onclick') || '').includes("showTab('chart'"));
+  showTab('chart', btn);
+  loadChart(sym);
 }
 
 // ── REPO CONFIG (private repo, accessed via GitHub API with token) ────────
@@ -877,7 +962,9 @@ function renderNR() {
   const strat = document.getElementById('strat-filter').value;
   const search = (document.getElementById('nr-search').value||'').toUpperCase();
   const cutoff = new Date(); cutoff.setDate(cutoff.getDate() - nrDays);
-  let sigs = ALL_SIGNALS.filter(s => {
+  // Use RECORDS (merged signals.json + records.json) so non-results from previous days are visible
+  const source = RECORDS && RECORDS.length ? RECORDS : ALL_SIGNALS;
+  let sigs = source.filter(s => {
     if(s.signal_type !== 'non_results') return false;
     if(nrDays<365){ const sd=new Date(s.date); if(sd<cutoff) return false; }
     if(activeFilter==='SB') return s.score_100>=72;
@@ -886,6 +973,15 @@ function renderNR() {
     if(search && !s.scrip.includes(search) && !(s.company||'').toUpperCase().includes(search)) return false;
     return true;
   });
+  // Deduplicate by date+scrip (in case same signal exists in both files)
+  const seen = new Set();
+  sigs = sigs.filter(s => {
+    const k = s.date + '_' + s.scrip;
+    if(seen.has(k)) return false;
+    seen.add(k); return true;
+  });
+  // Sort newest first
+  sigs.sort((a,b) => new Date(b.date) - new Date(a.date));
   const tbody = document.getElementById('tbody-nr');
   tbody.innerHTML = '';
   sigs.forEach((r,i) => {
@@ -962,6 +1058,7 @@ function toggleExpand(tr, r, tab) {
     ${!isNR?`<div style="margin-top:12px;font-size:11px;color:var(--text2)">${r.headline||''}</div>`:''}
     <button onclick="document.getElementById('bt-sym').value='${r.scrip}';showTab('backtest',document.querySelector('.nav-tab:nth-child(5)'));loadBT()" style="margin-top:12px;padding:6px 14px;border-radius:6px;border:1px solid var(--border2);background:none;color:var(--text2);cursor:pointer;font-size:11px">View 8Q Backtest →</button>
     <button onclick="gotoStockSim('${r.scrip}')" style="margin-top:12px;margin-left:6px;padding:6px 14px;border-radius:6px;border:1px solid var(--green);background:rgba(0,214,143,.08);color:var(--green);cursor:pointer;font-size:11px;font-weight:600">View Simulation →</button>
+    <button onclick="openChart('${r.scrip}')" style="margin-top:12px;margin-left:6px;padding:6px 14px;border-radius:6px;border:1px solid var(--blue);background:rgba(59,158,255,.08);color:var(--blue);cursor:pointer;font-size:11px;font-weight:600">📉 View Live Chart →</button>
   </div></td>`;
   tr.parentNode.insertBefore(expTr, tr.nextSibling);
   expandedEl = expTr;
@@ -1071,12 +1168,24 @@ async function fetchDynamicBT(sym) {
     throw new Error(`No backtest data for ${sym}. Available: ${avail}${avail.length>0?'...':'(none yet)'}`);
   }
   const quarters = bt.quarters.map(q => {
+    // Prefer the 30-day forward return; fall back to 15d/7d for very recent quarters.
     const mv = (q.move_30 ?? q.move_15 ?? q.move_7 ?? q.move ?? null);
     let correct = '—';
     if (q.would_buy && mv !== null) correct = mv > 0 ? 'correct' : 'wrong';
-    return { q: q.q, sc: q.score, signal: q.signal, rev: q.rev, pat: q.pat, opm: q.opm,
-             revYoy: q.rev_yoy, patYoy: q.pat_yoy, move: mv, correct: correct };
+    return {
+      q: q.q,
+      sc: q.score,
+      signal: q.signal,
+      rev: q.rev,
+      pat: q.pat,
+      opm: q.opm,
+      revYoy: q.rev_yoy,
+      patYoy: q.pat_yoy,
+      move: mv,
+      correct: correct,
+    };
   });
+  // Win-rate = BUY/STRONG BUY quarters that had a positive forward return, over those with a price window.
   const scoredQ = quarters.filter(q => q.signal && q.signal.includes('BUY') && q.move !== null);
   const wins = scoredQ.filter(q => q.move > 0).length;
   const total = scoredQ.length;
@@ -1613,6 +1722,120 @@ function gotoStockSim(sym) {
 // ── INIT ─────────────────────────────────────────────────────────────────────
 loadSignals();
 setInterval(loadSignals, 300000); // refresh every 5 min
+
+// ── FINAL DECISION (QUARANTINE) ───────────────────────────────────────────────
+let FINAL_LOADED = false;
+async function renderFinal() {
+  const tbody = document.querySelector('#tbl-final tbody');
+  const summary = document.getElementById('final-summary');
+  if(FINAL_LOADED) return;
+  tbody.innerHTML = '<tr><td colspan="9" style="text-align:center;padding:30px;color:var(--text2)">Loading final decisions…</td></tr>';
+  let data;
+  try { data = await ghFetch('final_decision.json'); }
+  catch(e) { tbody.innerHTML = '<tr><td colspan="9" style="text-align:center;padding:30px;color:var(--yellow)">final_decision.json not found. Run Fundamentals workflow in FINAL mode first.</td></tr>'; return; }
+  const rows = (data && data.rankings) ? data.rankings : [];
+  if(!rows.length){ tbody.innerHTML = '<tr><td colspan="9" style="text-align:center;padding:30px;color:var(--text2)">No data.</td></tr>'; return; }
+  // summary
+  const decs = {};
+  rows.forEach(r=>{decs[r.decision]=(decs[r.decision]||0)+1;});
+  summary.innerHTML = '<div style="display:flex;gap:10px;flex-wrap:wrap">' +
+    Object.entries(decs).sort((a,b)=>b[1]-a[1]).map(([d,n])=>{
+      const col = d==='BUY'?'#00d68f':d==='WATCH'?'var(--blue)':'var(--red)';
+      return `<div style="background:var(--bg3);border:1px solid var(--border);border-radius:6px;padding:8px 12px;font-size:11px"><b style="color:${col}">${n}</b> <span style="color:var(--text2)">${d}</span></div>`;
+    }).join('') + '</div>';
+  tbody.innerHTML = '';
+  rows.forEach((r,i)=>{
+    const bp = r.buy_probability, rp = r.risk_probability;
+    const bpC = bp>=80?'var(--green)':bp>=65?'var(--blue)':bp>=50?'var(--yellow)':'var(--text2)';
+    const rpC = rp>=70?'var(--red)':rp>=40?'var(--yellow)':'var(--green)';
+    const dec = r.decision;
+    const dC = dec==='BUY'?'var(--green)':dec==='WATCH'?'var(--blue)':'var(--red)';
+    const xConf = r.cross_confirmation ? '<span style="color:var(--green)">✓ live+conv</span>' : '<span style="color:var(--text2)">—</span>';
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td style="color:var(--text2)">${i+1}</td>
+      <td style="font-family:var(--mono);font-weight:700">${r.ticker}</td>
+      <td style="font-family:var(--mono);font-weight:700;color:${bpC}">${bp}</td>
+      <td style="font-family:var(--mono);font-weight:700;color:${rpC}">${rp}</td>
+      <td style="font-weight:600;color:${dC}">${dec}</td>
+      <td style="font-size:11px;color:var(--text2)">${r.confidence}</td>
+      <td style="font-family:var(--mono)">${r.alpha_layer ? r.alpha_layer.flow : '—'}</td>
+      <td style="font-size:11px">${xConf}</td>
+      <td style="font-size:11px;color:var(--text2)">${r.classification}</td>`;
+    tbody.appendChild(tr);
+  });
+  FINAL_LOADED = true;
+}
+
+// ── FLOATING HEADER BAR (always-visible column headers) ──────────────────────
+(function(){
+  window.__fhDebug = true;
+  const float = document.getElementById('floating-header');
+  if (!float) return;
+
+  function getNavHeight(){
+    const nav = document.querySelector('.nav');
+    return nav ? nav.getBoundingClientRect().height : 0;
+  }
+
+  function getActiveTable(){
+    // Find visible .section (has 'on' class) that contains a table with a thead
+    const active = document.querySelector('.section.on');
+    if (!active) return null;
+    const tables = active.querySelectorAll('table');
+    for (const t of tables){
+      if (t.querySelector('thead') && t.offsetHeight > 0) return t;
+    }
+    return null;
+  }
+
+  function update(){
+    const table = getActiveTable();
+    if (!table){
+      if(window.__fhDebug) console.log('[float-header] no active table found');
+      float.style.display = 'none'; return;
+    }
+    const thead = table.querySelector('thead');
+    if (!thead){ float.style.display = 'none'; return; }
+    const navH = getNavHeight();
+    const rect = thead.getBoundingClientRect();
+    // Show floating header when original is scrolled above the nav
+    if(window.__fhDebug) console.log('[float-header] thead rect.top=', rect.top, 'navH=', navH, 'show?', rect.top < navH);
+    if (rect.top < navH){
+      // Build/refresh the clone
+      const tableRect = table.getBoundingClientRect();
+      float.style.top = navH + 'px';
+      float.style.left = tableRect.left + 'px';
+      float.style.width = tableRect.width + 'px';
+      float.style.right = 'auto';
+      float.style.display = 'block';
+      // Clone the thead with matching column widths
+      const origThs = thead.querySelectorAll('th');
+      let html = '<table><thead><tr>';
+      origThs.forEach(th=>{
+        const w = th.getBoundingClientRect().width;
+        // copy text content + width
+        html += '<th style="width:'+w+'px;min-width:'+w+'px;max-width:'+w+'px">'+th.innerHTML+'</th>';
+      });
+      html += '</tr></thead></table>';
+      float.innerHTML = html;
+    } else {
+      float.style.display = 'none';
+    }
+  }
+
+  window.addEventListener('scroll', update, {passive:true});
+  window.addEventListener('resize', update);
+  document.addEventListener('click', e=>{
+    // tab clicks change active table; recheck after a tick
+    if (e.target.closest('.nav-tab')) setTimeout(update, 50);
+  });
+  // Re-check periodically (cheap) to catch async tab content loads
+  setInterval(update, 1000);
+  setTimeout(update, 100);
+  setTimeout(update, 500);
+})();
 </script>
+<div id="floating-header"></div>
 </body>
 </html>
